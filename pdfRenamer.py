@@ -29,6 +29,9 @@ def pretty_title(title, date) :
     # remove pseudo hexa
     new_title = re.sub('[xX][0-9a-fA-F]+','', new_title) 
     new_title = new_title.replace('\\', '')
+    new_title = new_title.replace(':', '')
+    new_title = new_title.replace('?', '')
+
 
     tokens = word_tokenize(new_title)
     tokens = [w.lower() for w in tokens]
@@ -85,6 +88,7 @@ def rename_file(path) :
                 if os.path.exists(os.path.join(directory, new_title)) : 
                     print('Un fichier portant se nom existe déjà.')
                 else :
+                    fp.close()
                     os.rename(path_to_pdf, os.path.join(directory, new_title))
         else : 
             print('Oops title not exist on this document.')
@@ -95,7 +99,10 @@ def is_valid(pdf_document) :
     return 'Title' in doc.info[0].keys() 
 
 if __name__ == "__main__" :  
-    
+
+    nltk.download('punkt')
+    nltk.download('stopwords')
+
     parser = argparse.ArgumentParser(description="Rename your pdf.")
     parser.add_argument('--filePath', type=str, nargs = '+', help='PDF to be renamed')
     parser.add_argument('--dirPath', type=str, nargs = '+', help='Dir which contain pdfs to be renamed')
