@@ -1,0 +1,4 @@
+regex==2022.4.24
+pdfminer==20191125
+nltk==3.7
+python-dotenv==0.20.0
