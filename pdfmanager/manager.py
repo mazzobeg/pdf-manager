@@ -1,14 +1,8 @@
-def store_in_shelf(path_to_shelf : str, pdf_path:str) -> bool:
-    pass
-
-def save_in_summary(path_to_summary : str, pdf_path:str) -> bool :
-    pass
-
 from dotenv import load_dotenv
-import os, shutil
+import os, shutil, pathlib
 
 def store_in_missing(pdf_path:str) :
-    dotenv_path = os.path.join(os.getcwd(), '.env')
+    dotenv_path = os.path.join(pathlib.Path(__file__).parent.parent.absolute(), '.env')
     load_dotenv(dotenv_path)
     directory = os.environ.get("SHELFPATH")
     missing_directory = os.path.join( directory,  "missing")

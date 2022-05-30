@@ -1,34 +1,70 @@
-<div align="center">
-      <h1> <img src="https://st4.depositphotos.com/34214788/40550/i/600/depositphotos_405505120-stock-photo-pdf-icon-flat-sign-on.jpg" width="80px"><br/>PDFManager</h1>
-     </div>
 
+<div  align="center">
 
-# Description
-Manage your pdf names
+<h1> <img  src="https://github.com/mazzobeg/pdfmanager/contents/pdf.jpg"  width="80px"><br/>PDFManager</h1>
 
-# Features
-- Rename a pdf file with metadatas information
-- Store all pdf in json file to keep an eye on your lectures
+</div>
 
+  
+  
 
-# Tech Used
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-      
-# More Details:
-Anything else that you want to add for users? You can write it here in markdown and see preview in real time. You can add anything that you want, for example
+### Description
 
+Little python script which automatize different tasks about your pdf to keep them clean and organized.
+
+ 
+### Features
+
+Current feature :
+- Automatic rename pdf file / folder who contain pdfs with metadatas information.
+
+Future :
+- Creation of shelf sumary file to manage reading.
+- Improving renamer to use keyword if title not provided by metadatas.
+- Intelligent classification.
+- More ... 
+  
 ### How to Setup:
-- Step 1: git clone
-- Step 2: pip install
+
+- git clone 
+- cd [path_to_package]
+- pip install
+- touch .env
+	- copy paste in the file : SHELFPATH=[path_to_your_shelf]
+- add an alias to your terminal :
+	- ~/.zshrc
+	- copy paste : alias _pdf='python [path_to_package]/cli.py'
+
+### Test your setup:
+- open a new terminal 
+- _pdf -h
+
+### Example
+
+![terminal](/contents/terminal.png?raw=true)
+
+![shelf](/contents/result.png?raw=true)
 
 ### References
-pdfRenamer.py
-| Option | Description |
-| ----------- | ----------- |
-| `--dirPath [path:str]`| Path which contain pdf to be renamed. |
-| `--filePath [path:str]` | Path of pdf to be renamed. |
+
+| Flag | Option | Description |
+| ----------- | ----------- | ----------- |
+| -d | `--dirpath [path:str]`| the folder path containing the pdfs to rename |
+|-f| `--filepath [path:str]` | the path of pdf to rename |
+|-h| `--help [path:str]` |help |
 
 
-      
-<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
-    
+  
+
+### Tech Used
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+  
+
+
+
+
+  
+
+ 

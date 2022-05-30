@@ -3,8 +3,9 @@ from nltk.tokenize import word_tokenize
 from nltk.stem.porter import PorterStemmer
 from nltk.corpus import stopwords
 from dotenv import load_dotenv
+from pdfmanager import pdf, manager, util
 
-import string, random, re, os, logging
+import string, random, re, os, logging, pathlib
 
 def get_pretty_title(title:str, date:str) -> str: 
     """Remake current title in document.
@@ -58,10 +59,9 @@ def get_new_path(new_title:str, directory:str = None) -> str:
         str: Full path.
     """
     if directory is None : 
-        dotenv_path = os.path.join(os.getcwd(), '.env')
+        dotenv_path = os.path.join(pathlib.Path(__file__).parent.parent.absolute(), '.env')
         load_dotenv(dotenv_path)
         directory = os.environ.get("SHELFPATH")
-        print(directory)
     return os.path.join(directory, new_title)
 
 def rename_pdf(old_path:str, new_path:str) -> int:
@@ -77,7 +77,6 @@ def rename_pdf(old_path:str, new_path:str) -> int:
     # if file already exist
     ans = 1
     if os.path.exists(new_path) :
-        logging.info(f"{os.path.basename(new_path)} Filename already exist… I while add an extension")
         ans = 0
         while os.path.exists(new_path) :
             dirpath = os.path.dirname(new_path)
@@ -85,6 +84,7 @@ def rename_pdf(old_path:str, new_path:str) -> int:
             new_path = os.path.join(dirpath,increment_filename(filename))
     try :
         os.rename(old_path, new_path)
+        logging.info(f'{util.bcolors.OKGREEN} "{ str(os.path.basename(new_path)).upper() }" added to your shelf ! {util.bcolors.ENDC}')
     except Exception : 
         ans = -1
     return ans
@@ -103,3 +103,27 @@ def increment_filename( filename : str ) -> str :
         new_filename = filename_without_ext + '[*1].pdf'
         return new_filename
 
+
+def process_all_pdf_in_dir(dirpath:str) :
+    for file in pathlib.Path(dirpath).iterdir() : 
+        process_pdf(file)
+
+def process_pdf(pdfpath:str) :
+    file = pathlib.Path(pdfpath)
+    if os.path.isfile(file) and str(file.absolute()).split('.')[-1] == 'pdf': 
+            title = pdf.get_title_from_filepath(file.absolute())
+            date = pdf.get_date_from_filepath(file.absolute())
+
+            if not title is None and not date is None : 
+                title = str(title)
+                date = str(date)
+                pretty_title = get_pretty_title(title, date)
+                if pretty_title == '' :
+                    # store in missing folder
+                    manager.store_in_missing(file.absolute())
+                else :
+                    new_path = get_new_path(pretty_title)
+                    rename_pdf(file.absolute(), new_path)
+            else : 
+                logging.info(f'{util.bcolors.WARNING} "{ str(os.path.basename(file.absolute())).upper() }" store in missing ! {util.bcolors.ENDC}')
+                manager.store_in_missing(file.absolute())

@@ -1,3 +1,4 @@
 tests/
-pdfmanager/private
+pdfmanager/private/
 .env
+pdfmanager/__pycache__/
