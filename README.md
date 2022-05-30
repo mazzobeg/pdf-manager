@@ -1,44 +1,46 @@
 
 <div  align="center">
 
-<h1> <img  src="https://github.com/mazzobeg/PDFManager/blob/WIP/contents/pdf.jpg"  width="80px"><br/>PDFManager</h1>
+<h1> 📄 <br/>PDFManager</h1>
 
 </div>
 
+### Description & Features 📚
+
+Small python cli that automates different tasks on your pdfs to keep them clean and organized.
+
+Current feature:
+- Automatically rename files/folders containing PDF files with metadata information.
+
+Coming :
+- Creation of a librarian summary file to manage reading.
+- Improved renaming with the use of keywords if the title is not provided by the metadata.
+- Smart ranking.
+- After ...
   
-  
+### How to Setup (~2min) ⚙️
 
-### Description
-
-Little python script which automatize different tasks about your pdf to keep them clean and organized.
-
- 
-### Features
-
-Current feature :
-- Automatic rename pdf file / folder who contain pdfs with metadatas information.
-
-Future :
-- Creation of shelf sumary file to manage reading.
-- Improving renamer to use keyword if title not provided by metadatas.
-- Intelligent classification.
-- More ... 
-  
-### How to Setup:
-
-- git clone 
-- cd [path_to_package]
-- pip install
-- touch .env
-	- copy paste in the file : SHELFPATH=[path_to_your_shelf]
-- add an alias to your terminal :
-	- ~/.zshrc
-	- copy paste : alias _pdf='python [path_to_package]/cli.py'
-
-### Test your setup:
-- open a new terminal 
-- _pdf -h
-
+```
+git clone https://github.com/mazzobeg/PDFManager
+cd [path_to_package]
+pip install
+touch .env
+echo "SHELFPATH=[path_to_your_shelf]" > .env
+```
+### Run it! ⏯
+#### Boring way
+```
+python [path_to_package]/cli.py -h
+```
+#### Efficient way
+Add an alias to your shell. For example if you use zsh :
+```
+echo 'alias _pdf='python [path_to_package]/cli.py' >> ~/.zshrc
+```
+Open a new terminal and run :
+```
+_pdf -h
+```
 ### Example
 
 ![terminal](/contents/terminal.png?raw=true)
@@ -52,9 +54,6 @@ Future :
 | -d | `--dirpath [path:str]`| the folder path containing the pdfs to rename |
 |-f| `--filepath [path:str]` | the path of pdf to rename |
 |-h| `--help [path:str]` |help |
-
-
-  
 
 ### Tech Used
 
