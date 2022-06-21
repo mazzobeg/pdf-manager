@@ -1,4 +1,8 @@
-regex==2022.4.24
-pdfminer==20191125
+fpdf==1.7.2
+googletrans==3.1.0a0
 nltk==3.7
+numpy==1.22.3
+pdfminer==20191125
+PyPDF2==2.3.1
 python-dotenv==0.20.0
+reportlab==3.6.10
