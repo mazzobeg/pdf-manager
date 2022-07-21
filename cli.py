@@ -1,4 +1,4 @@
-from pdfmanager.__main__ import main
+from pdfmanager.pdftranslator import main
 
 if __name__ == '__main__':
     main()

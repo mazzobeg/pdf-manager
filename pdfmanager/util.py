@@ -8,3 +8,9 @@ class bcolors:
     ENDC = '\033[0m'
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
+
+
+def progressBar(progress, total) :
+    percent = int(100 * (progress/float(total)))
+    bar = bcolors.OKGREEN + '<' + '-' * percent + '>' +  bcolors.ENDC + '-' * (100-int(percent))
+    print(f'\rIn translation … {bar} {bcolors.OKGREEN}{percent:.2f}%{bcolors.ENDC}', end = '')
