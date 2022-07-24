@@ -1,3 +1,4 @@
+from struct import pack
 import xml.etree.ElementTree as ET
 
 from fpdf import FPDF
@@ -7,10 +8,10 @@ from numpy import deprecate
 from reportlab.pdfgen import canvas
 from reportlab.lib import colors
 
-from .util import progressBar
+from .util import Progressor, lineReturnedString
 from .calculator import bboxWithWH, bboxFromBLtoTL
 from .xmlparser import isValidTextBox, getBboxFromElement, textBoxToText
-
+from .translator import traduct
 # @deprecate
 # def addOverlay(xmlPath, pdfPath, outputPath) : 
 #     # fetch modeled xml
@@ -71,32 +72,37 @@ def showTextbox(root, pathXml, pathOutputPdf) :
     outfp.close()
     pdf.output(pathOutputPdf, 'F')
 
-def createOverlaysFromXmlDict(xmlDict) :
+def createOverlaysFromXmlDict(xmlDict, language, fontsize) :
     overlays = []
-    
+    fontsize = int(fontsize)
     d = xmlDict
     
+    progressor = Progressor(len(xmlDict['pages'].values()))
     for page in xmlDict['pages'].values() :
         packet = io.BytesIO()
-        can = canvas.Canvas(packet, pagesize=(d['docInfo'].values()))
-        for area in page.values() :
-            if not 'bbox' in area.keys() : break
-            bbox = area['bbox']
-            text = area['text']
-            # background of area
-            can.setFillColor(colors.lightgrey)
-            can.setStrokeColor(colors.grey)
-            can.rect(bbox[0],bbox[1],bbox[2],bbox[3], fill=1)
-            # text writing
-            textobject = can.beginText()
-            textobject.setTextOrigin(bbox[0]+2,bbox[1]+bbox[3]-9)
-            textobject.setFont('Times-Roman', 9)
-            textobject.setFillColor(colors.black)
-            textobject.textLines(text)
-            can.drawText(textobject)
+        can = canvas.Canvas(packet, pagesize=list(d['docInfo'].values()))
+        for areaid, areacontent in page.items() :
+            if 'bbox' in areacontent.keys() : 
+                bbox = areacontent['bbox']
+                text = areacontent['text']
+                text = traduct(text, language)
+                text = lineReturnedString(text, can.stringWidth('a','Courier', fontsize), bbox[2])
+                # background of area
+                can.setFillColor(colors.lightgrey)
+                can.setStrokeColor(colors.lightgrey)
+                can.rect(bbox[0],bbox[1],bbox[2],bbox[3], fill=1)
+                # text writing
+                textobject = can.beginText()
+                textobject.setTextOrigin(bbox[0]+2,bbox[1]+bbox[3]-9)
+                textobject.setFont('Courier', fontsize)
+                textobject.setFillColor(colors.black)
+                textobject.textLines(text)
+                can.drawText(textobject)
         can.save()
         packet.seek(0)
         overlays.append(packet)
+        progressor.increment()
+        progressor.display()
     
     return overlays
 

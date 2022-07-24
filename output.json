@@ -1,140 +1,158 @@
 {
     "docInfo": {
-        "width": 419.528,
-        "height": 595.276
+        "width": 595.276,
+        "height": 841.89
     },
     "pages": {
         "0": {
-            "0": {},
-            "1": {
+            "0": {
                 "bbox": [
-                    138.245,
-                    457.144,
-                    143.04000000000002,
-                    19.600000000000023
+                    35.358,
+                    652.173,
+                    442.653,
+                    87.18299999999999
                 ],
-                "text": "Social Security Fraud"
+                "text": "ArticleImpact of Histotripsy on Development of IntrahepaticMetastases in a Rodent Liver Tumor ModelTejaswi Worlikar 1Mishal Mendiratta-Lala 2, Clifford S. Cho 3,7 and Zhen Xu 1,*"
             },
+            "1": {},
             "2": {
                 "bbox": [
-                    53.858,
-                    235.108,
-                    314.65999999999997,
-                    132.46999999999997
+                    166.393,
+                    624.371,
+                    338.08799999999997,
+                    10.783999999999992
                 ],
-                "text": "Abstract  Social security fraud and white-collar offences represent serious forms of financial crime. We compare previous estimates of social security fraud in Norway made using a comparable methodology to that which we have applied to white-collar crime. Although the estimated 9.8 billion NOK for social security fraud is enormous in a nation like Norway, we suggest that the amount for white-collar crime is even bigger. We also apply social conflict theory to discuss the issue of priorities in law enforcement between social security fraud versus white-collar crime. According to social conflict theory, the justice system is biased and designed to protect the wealthy and powerful.  They  will  never  accept  the  view  that  minor  fraud  prosecution represents a kind of over-criminalization targeted at the losers in society."
+                "text": "1 Department of Biomedical Engineering, University of Michigan, Ann Arbor, MI 48109, USA;"
             },
-            "3": {
-                "bbox": [
-                    53.858,
-                    187.108,
-                    308.248,
-                    36.47
-                ],
-                "text": "Keywords  Benefits [~] Detection [~] Estimated magnitude [~] Expert elicitation [~] Fraud [~] NAV [~] Norway [~] Police priorities [~] Social conflict theory [~] Social security"
-            },
+            "3": {},
             "4": {
                 "bbox": [
-                    53.858,
-                    91.108,
-                    314.643,
-                    72.25
+                    166.393,
+                    602.851,
+                    289.096,
+                    10.783999999999992
                 ],
-                "text": "Both social security fraud and white-collar offenses represent serious forms of  financial  crime  causing  harm  and  victims  in  society.  The  police  have limited  resources  to  investigate  economic  crime  and  have  to  prioritize their resources by dropping a large portion of cases (Brooks and Button 2011).  The  question  we  ask  here  is:  Should  law  enforcement  primarily dismiss social security fraud cases or white-collar crime cases?"
+                "text": "2 Department of Radiology, University of Michigan, Ann Arbor, MI 48109, USA;"
             },
             "5": {
                 "bbox": [
-                    53.862,
-                    34.544,
-                    282.222,
-                    33.021
+                    179.943,
+                    592.092,
+                    253.864,
+                    9.772000000000048
                 ],
-                "text": "[~] The Author(s) 2018P. Gottschalk, L. Gunnesdal, White-Collar Crime in the Shadow Economy, https://doi.org/10.1007/978-3-319-75292-1_8"
-            },
-            "6": {}
-        },
-        "1": {
-            "0": {},
-            "1": {
-                "bbox": [
-                    75.908,
-                    550.485,
-                    131.86599999999999,
-                    8.574999999999932
-                ],
-                "text": "P. GOTTSCHALK AND L. GUNNESDAL"
-            },
-            "2": {
-                "bbox": [
-                    53.858,
-                    463.144,
-                    314.64,
-                    72.25
-                ],
-                "text": "The two types of cases are in many ways two extremes on the scale of economic  criminals.  While  social  security  fraud  is  committed  by  people who basically need financial help from the community to live decent lives, white-collar crime is committed by individuals in the upper-echelons of society who abuse their positions to enrich themselves or the organiza-tions they are associated with."
-            },
-            "3": {
-                "bbox": [
-                    53.858,
-                    403.144,
-                    314.65,
-                    60.25
-                ],
-                "text": "In this chapter, we compare previous estimates of social security fraud in Norway, made using a comparable methodology to that which we have applied to white-collar crime in this book. We also apply social conflict theory to discuss the issue of priorities in law enforcement between social security fraud versus white-collar crime."
-            },
-            "4": {
-                "bbox": [
-                    53.858,
-                    355.144,
-                    314.6,
-                    48.25
-                ],
-                "text": "A number of situations are viewed as social security fraud, including misuse of benefits, making false statements on claims, and buying or sell-ing social security cards. Concealing information that affects eligibility for benefits is also considered to be fraud."
-            },
-            "5": {
-                "bbox": [
-                    53.858,
-                    271.144,
-                    314.61899999999997,
-                    84.25
-                ],
-                "text": "People  who  represent  social  security  recipients  commit  fraud  if  they misuse the benefits they are entrusted with (Lensvelt-Mulders et[~]al. 2006). It is considered fraud when people knowingly provide inaccurate informa-tion when they apply for social security benefits. Anyone receiving social security disability benefits must inform the social security administration if they also receive workers[~] compensation benefits from their organizations where they are or were employed."
+                "text": "maggiez@med.umich.edu (M.Z.); mmendira@med.umich.edu (M.M.-L.)"
             },
             "6": {
                 "bbox": [
-                    134.141,
-                    240.626,
-                    151.24699999999999,
-                    14.699999999999989
+                    166.393,
+                    581.332,
+                    280.53599999999994,
+                    10.783999999999992
                 ],
-                "text": "A SociAl Security FrAudSter"
+                "text": "3 Department of Surgery, University of Michigan, Ann Arbor, MI 48109, USA;"
             },
             "7": {
                 "bbox": [
-                    53.858,
-                    163.144,
-                    314.65999999999997,
-                    72.25
+                    179.943,
+                    570.572,
+                    238.011,
+                    9.772000000000048
                 ],
-                "text": "She  is  73  years  old  and  was  sentenced  to  prison  for  18  months  by  the Agder court of appeal (upholding the decision of a lower court) in Norway in 2015. She had been paid a disability pension of just under 1 million NOK over five and a half years, without disclosing that she once had rev-enues  from  fortune  telling  totaling  1.7  million  NOK  ($212,000).  Her income as a fortune teller was not reported to the authorities."
+                "text": "ganutosh@med.umich.edu (A.G.); cliffcho@med.umich.edu (C.S.C.)"
             },
             "8": {
                 "bbox": [
-                    53.858,
-                    103.144,
-                    314.64799999999997,
-                    60.25
+                    166.393,
+                    559.813,
+                    322.682,
+                    10.783999999999992
                 ],
-                "text": "She worked as a fortune teller in a business that provided fortune tell-ing by phone. The fortune telling service was marketed in newspapers and magazines. Each fortune teller had a unique artist name and a dedicated phone number. Callers were charged by elapsed time and paid in most cases over the phone. The minute price was 7 NOK (88 cents)."
+                "text": "4 Department of Pathology & Clinical Labs, Rogel Cancer Center, University of Michigan,"
             },
-            "9": {
+            "9": {},
+            "10": {
                 "bbox": [
-                    53.858,
-                    67.144,
-                    314.62,
-                    36.25
+                    165.684,
+                    506.014,
+                    385.669,
+                    43.06299999999999
                 ],
-                "text": "When she started to work as a fortune teller, she contacted her local social security office and asked what she was allowed to earn in addition to her disability pension. She was told that she could make no more than "
+                "text": "5 Department of Biostatistics, University of Michigan, Ann Arbor, MI 48109, USA; zhaolili@med.umich.edu6 Department of Radiology, University of Wisconsin, Madison, WI 53705, USA; [~]ee@uwhealth.org7 Department of Surgery, Ann Arbor VA Healthcare, Ann Arbor, MI 48105, USA* Correspondence: zhenx@umich.edu; Tel.: +1-734-262-5198"
+            },
+            "11": {
+                "bbox": [
+                    166.017,
+                    341.798,
+                    394.74600000000004,
+                    153.911
+                ],
+                "text": "Simple Summary: Histotripsy is a novel technique that mechanically disrupts tumors, throughprecisely controlled acoustic cavitation. There is insuf[~]cient evidence regarding the effects of his-totripsy on the risk of recurrence and metastases, following tumor debulking. The aim of this studyis to evaluate the effect of partial histotripsy tumor ablation (~50[~]75% tumor volume targeted) onuntargeted tumor progression, survival outcomes, risk of metastases and immune in[~]ltration, inan orthotopic, immunocompetent, metastatic rodent hepatocellular carcinoma (HCC) model. Evenwith partial ablation, complete local tumor regression was observed in 81% of treatment rats, withno recurrence or metastasis. In contrast, 100% of the untreated control animals showed local tumorprogression and intrahepatic metastases. Histotripsy-treated animals had statistically signi[~]cantimproved survival outcomes compared to controls (p-value < 0.0001). Histotripsy-treated animalshad increased immune in[~]ltration, as compared to controls, which may have contributed to theeventual regression of the untargeted tumor region in partial histotripsy-treated tumors."
+            },
+            "12": {
+                "bbox": [
+                    166.017,
+                    122.3,
+                    394.83200000000005,
+                    205.79699999999997
+                ],
+                "text": "Abstract: Histotripsy has been used for tumor ablation, through controlled, non-invasive acousticcavitation. This is the [~]rst study to evaluate the impact of partial histotripsy ablation on immune in[~]l-tration, survival outcomes, and metastasis development, in an in vivo orthotopic, immunocompetentrat HCC model (McA-RH7777). At 7[~]9 days post-tumor inoculation, the tumor grew to 5[~]10 mm,and ~50[~]75% tumor volume was treated by ultrasound-guided histotripsy, by delivering 1[~]2 cyclehistotripsy pulses at 100 Hz PRF (focal peak negative pressure P[~] >30 MPa), using a custom 1 MHztransducer. Complete local tumor regression was observed on MRI in 9/11 histotripsy-treated rats,with no local recurrence or metastasis up to the 12-week study end point, and only a <1 mm residualscar tissue observed on histology. In comparison, 100% of untreated control animals demonstratedlocal tumor progression, developed intrahepatic metastases, and were euthanized at 1[~]3 weeks.Survival outcomes in histotripsy-treated animals were signi[~]cantly improved compared to controls(p-value < 0.0001). There was evidence of potentially epithelial-to-mesenchymal transition (EMT)in control tumor and tissue healing in histotripsy-treated tumors. At 2- and 7-days post-histotripsy,increased immune in[~]ltration of CD11b+, CD8+ and NK cells was observed, as compared to con-trols, which may have contributed to the eventual regression of the untargeted tumor region inhistotripsy-treated tumors."
+            },
+            "13": {
+                "bbox": [
+                    166.394,
+                    97.374,
+                    389.65999999999997,
+                    11.225999999999999
+                ],
+                "text": "Keywords: histotripsy; hepatocellular carcinoma; tumor ablation; immunomodulation; metastases"
+            },
+            "14": {},
+            "15": {},
+            "16": {},
+            "17": {},
+            "18": {},
+            "19": {
+                "bbox": [
+                    35.453,
+                    19.012,
+                    228.57500000000002,
+                    10.099
+                ],
+                "text": "Cancers 2022, 14, 1612. https://doi.org/10.3390/cancers14071612"
+            },
+            "20": {}
+        },
+        "1": {
+            "0": {},
+            "1": {},
+            "2": {},
+            "3": {
+                "bbox": [
+                    166.394,
+                    492.764,
+                    394.12800000000004,
+                    238.16700000000003
+                ],
+                "text": "Liver cancer is one of the top ten causes of cancer-related deaths worldwide and inthe United States [1]. Hepatocellular carcinoma (HCC) accounts for 75% of all liver cancercases, most frequently occurring in patients with chronic liver diseases, from etiologies suchas hepatitis B and C, alcohol abuse, non-alcoholic steatohepatitis (NASH) and nonalcoholicfatty liver disease (NAFLD), resulting in cirrhosis [2]. The liver is also a frequent site formetastases originating from colorectal cancer, pancreatic cancer, melanoma, lung cancer andbreast cancer [3]. Depending on the location, severity and staging of liver cancer, multipletreatment options are currently available, including surgical resection, liver transplantation,ablation techniques (including radiofrequency ablation (RFA), microwave ablation (MWA),high-intensity focused ultrasound (HIFU), cryoablation), chemotherapy, radiation therapy,targeted drug therapy and immunotherapies [4]. Even with current medical treatments, the5-year patient survival rate in the United States is only 20%, the second lowest amongst allcancers [1]. Symptoms associated with liver cancer may not show at early stages, placingthe patients at an increased risk for nodal and distant metastases, which further lowerstheir 5-year survival rate to an estimated 3[~]11% [5]. Even after treatment, high prevalenceof tumor recurrence and metastasis [6] highlights the clinical need for improving outcomesof liver cancer. In fact, metastasis accounts for >90% of all cancer-associated deaths, andmetastatic progression is predominantly regulated by the complex signaling pathwaysbetween the primary tumor and stromal cells, especially the immune cells [7,8]."
+            },
+            "4": {
+                "bbox": [
+                    165.98,
+                    304.469,
+                    394.951,
+                    187.95600000000002
+                ],
+                "text": "Histotripsy is a novel, non-invasive, non-ionizing, and non-thermal ablation techniquethat mechanically destroys target tissue by controlled acoustic cavitation [9[~]11]. Using high-pressure (P[~] > 15 MPa), microsecond-length ultrasound pulses, at a low duty cycle (ultrasoundon-time/total treatment time <1%), endogenous nanometer-scale gas nuclei in the tissue are ex-panded to over 100 [~]m, followed by collapse within several hundred microseconds, generatinghigh mechanical stress and strain to disrupt the cells in the target tissue. Histotripsy has beenshown to completely ablate the target tissue into a liquid consistency acellular homogenate,which is resorbed by the body within 2 months, leaving mm-length scar tissue [12[~]14]. Pre-clinical histotripsy investigations have established the feasibility and efficacy of histotripsy fornon-invasive ablation, in many pre-clinical applications, including the ablation of human-scaleporcine livers [15[~]19], and ablation of liver [20[~]22], kidney [23] and prostate [24] tumors. Themechanical strength of different tissue types impacts their resistance to histotripsy-induceddamage, which can be exploited by selecting optimal parameters for achieving tumor-selective damage, while simultaneously protecting the structural integrity of large bloodvessels, nerves, and bile ducts, within the ablation zone [15,17,18,25]."
+            },
+            "5": {
+                "bbox": [
+                    166.115,
+                    65.963,
+                    394.908,
+                    238.167
+                ],
+                "text": "There has been some evidence suggesting the potent immunostimulatory and systemiceffects of histotripsy. In a murine melanoma model, histotripsy ablation of the primarysubcutaneous tumor inhibited the development of secondary pulmonary metastases, de-rived from tail vein injection [20]. In an orthotopic rat liver tumor model, histotripsy of theentire tumor volume resulted in complete regression of the tumor, in all subjects, and evenin 5/6 cases of partial tumor ablation (50[~]75% tumor volume ablated), the entire tumorregressed completely, with no recurrence [22]. Recently, a [~]rst-in-human trial demonstratedthe feasibility of planned histotripsy ablation of liver tumors, with no identi[~]ed seriousadverse events [26]. In all patients (n = 8), targeted tumors were locally controlled andin 2 of 8 patients, non-targeted tumors also stabilized [26]. These results suggest thatlocal histotripsy ablation of the entire primary tumor, or even a part of the tumor, maysystemically in[~]uence untargeted tumors. There is insuf[~]cient evidence regarding theeffects of histotripsy on the risk of recurrence and metastases following tumor debulking.Since histotripsy mechanically disrupts the tumor, it is possible that intact tumor cells mayinadvertently detach from the primary tumor and disseminate into the lymphatic and/orcirculatory system. Our understanding of the immunological response to histotripsy isalso limited, especially in cases of partial histotripsy ablation, where untargeted tumorvolume remains undamaged during treatment, but eventually regresses. This longitudinalstudy aims to evaluate the effect of partial histotripsy tumor ablation on untargeted local"
             }
         },
         "2": {
@@ -142,132 +160,75 @@
             "1": {},
             "2": {
                 "bbox": [
-                    53.858,
-                    415.144,
-                    314.6,
-                    120.25
+                    166.394,
+                    709.153,
+                    392.885,
+                    37.319999999999936
                 ],
-                "text": "5,000 NOK ($625) per month. She followed instructions received from NAV (the Norwegian labor and welfare administration/Norwegian social security authority), and she was paid 5,000 NOK per month for about ten months per year from startup until she went over the retirement age after six years. The sum of 5,000 NOK was paid to her regardless of how much she actually worked as a fortune teller. She did not work very much, partly because she had to care for her elderly mother for a long time. After retire-ment, she has legally worked and earned by the hour. Her salary has been taxed in the normal way. She denies receiving any funds beyond the speci-fied amount of 5,000 NOK per month."
+                "text": "tumor progression, survival outcomes, risk of developing metastases and tumor immunein[~]ltration, in an orthotopic, immunocompetent, metastatic rodent HCC model, for the[~]rst time."
             },
-            "3": {
-                "bbox": [
-                    53.858,
-                    343.144,
-                    314.65,
-                    72.25
-                ],
-                "text": "The Agder (2015) court of appeal, however, found beyond any reason-able and sensible doubt that she had received remuneration for her for-tune telling business beyond the 5,000 NOK that were reported to the tax authorities and NAV. The court of appeal disregarded the possibility that other people may have used the same phone number, or that there has been a confusion between different fortune tellers."
-            },
+            "3": {},
             "4": {
                 "bbox": [
-                    53.858,
-                    307.144,
-                    314.568,
-                    36.25
+                    165.975,
+                    469.451,
+                    394.953,
+                    200.50900000000001
                 ],
-                "text": "The court of appeal found it proven that for many years she had con-ducted a fortune telling service that was paid for in cash from the business, which is why it was not registered in bank transfers or bank deposits."
+                "text": "Orthotopic McA-RH7777 liver tumors were generated in immunocompetent Sprague-Dawley rodent hosts. Once the tumor measured a minimum of 5 mm in its largest di-mension, animals were randomized into treatment and control groups. For the survivalstudy, n = 11 treatment rats received partial histotripsy ablation (approximately 50[~]75%of the tumor volume was targeted for ablation by histotripsy) and n = 11 control ratsreceived no treatment. Animals were monitored weekly using MRI for up to 3 months oruntil the animals reached end-stage illness criteria, or the maximum tumor size (25 mm inlargest dimension) allowed by ethical standards was reached; therefore, data are not trulyabsolute for animal survival. At the endpoint (prior to the onset of death), the animalswere euthanized, and liver tissue was harvested for histological evaluation. For the earlytimepoint study, animals were euthanized at day 2 (n = 2 control, and n = 3 treatment) orday 7 (n = 3 control, and n = 6 treatment) post-histotripsy timepoint and the harvestedliver tissue was analyzed to evaluate for intra-hepatic metastasis and immune in[~]ltrationat day 2 and day 7 timepoints following histotripsy ablation. An additional cohort of n = 3animals received scant histotripsy ablation (<25% tumor volume targeted by histotripsy)and were euthanized at day 7."
             },
-            "5": {
-                "bbox": [
-                    53.858,
-                    223.144,
-                    314.64,
-                    84.25
-                ],
-                "text": "She told the court that she has lived very soberly, that she had taken only one holiday trip in 23 years, and that she has an old car bought with borrowed money. She told the court that she has borrowed money from the bank for the renovation and repair of her residential property, that she has an open and straightforward relationship with the bank, and that she has communicated with NAV on the topic of income for work in addition to her disability pension."
-            },
+            "5": {},
             "6": {
                 "bbox": [
-                    65.858,
-                    211.144,
-                    302.624,
-                    12.25
+                    166.394,
+                    380.136,
+                    394.12699999999995,
+                    64.93099999999998
                 ],
-                "text": "The Larvik district court sentenced her to imprisonment for 18 months. "
+                "text": "McA-RH7777 (ATCC[~] CRL-1601[~]) cells were purchased from the ATCC cell linerepository. The cells were cultivated in Dulbecco[~]s Modi[~]ed Eagle[~]s Medium (DMEM)containing 4 mM L-glutamine, 4500 mg/L glucose, and 1500 mg/L sodium bicarbonate,supplemented with 10% FBS and 1 mL Gentamicin. The cells were maintained at 37 [~]C in a5% CO2/95% humidi[~]ed air atmosphere."
             },
-            "7": {
-                "bbox": [
-                    53.858,
-                    199.144,
-                    132.778,
-                    12.25
-                ],
-                "text": "The judge wrote in the verdict:"
-            },
+            "7": {},
             "8": {
                 "bbox": [
-                    65.858,
-                    77.421,
-                    290.365,
-                    110.00699999999999
+                    166.065,
+                    280.559,
+                    394.20200000000006,
+                    74.97899999999998
                 ],
-                "text": "As a general rule, the sentencing court emphasizes the need for deterrent mechanisms regarding social security fraud and tax evasion. On social secu-rity fraud, which is the most serious offence by the defendant, the Supreme Court has emphasized that such cases involve abuse of key welfare benefits that  largely  is  based  on  confidence  that  recipients  provide  an  honest  and correct  description  of  their  economic  and  social  situation.  For  many,  the barrier against committing this kind of crime is low, since it is society at large and not individuals who is victim of the crime. It is therefore essential that this type of violations is met with a tactile reaction. This is particularly true in the case of fraud in the magnitude that we are facing here."
+                "text": "This study was approved by the Institutional Animal Care and Use Committee atthe University of Michigan and all procedures were performed in compliance with theapproved protocol. Sprague-Dawley rats weighing 125[~]175 g were purchased from Taconic(Hudson, New York, NY, USA) and housed and maintained in speci[~]c pathogen-free(SPF) conditions in University of Michigan ULAM (Unit for Laboratory Animal Medicine)housing facility."
+            },
+            "9": {},
+            "10": {
+                "bbox": [
+                    165.895,
+                    66.86,
+                    395.038,
+                    187.95499999999998
+                ],
+                "text": "Tumor implantation was performed via laparotomy. Animals were injected with100 mg/kg cyclophosphamide intraperitoneally 24 h prior to tumor inoculation. Forthe inoculation procedure, animals were anesthetized in an induction chamber usingiso[~]urane inhalation (5%, admixed with 1 L/min of oxygen) until loss of withdrawalre[~]ex. After induction, the animals were moved to the surgical area in a supine positionand anesthesia was then maintained with 2% iso[~]urane in 100% oxygen with a [~]ow of1.5 L/min administered using a nasal-cone connected to a coaxial breathing circuit andvaporizer (SurgiVet V704001, Smiths Medical, Waukesha, WI, USA). To prevent anesthesia-related corneal damage, eye lubricant was used. Carprofen (Rimadyl, P[~]zer, NY, USA)analgesic (5 mg/kg) was used for analgesia prior to surgery and once every 24 h for twodays post-surgery. The surgical area (chest and abdomen) was shaved and sterilized usingchlorhexidine and iodine. Once the animal was draped and prepped for surgery, a midlineincision was made through the skin. Blunt dissection was performed to separate the skinand abdominal muscle layer posteriorly and anteriorly to the ends of the incision. Toexpose the liver, an incision was made in muscle layer and retractor was inserted to keep"
             }
         },
         "3": {
             "0": {},
-            "1": {
-                "bbox": [
-                    75.908,
-                    550.485,
-                    131.86599999999999,
-                    8.574999999999932
-                ],
-                "text": "P. GOTTSCHALK AND L. GUNNESDAL"
-            },
+            "1": {},
             "2": {
                 "bbox": [
-                    53.858,
-                    463.144,
-                    314.629,
-                    72.25
+                    165.975,
+                    621.282,
+                    394.953,
+                    125.19099999999992
                 ],
-                "text": "The court of appeal endorsed the district court[~]s standpoint. The court of appeal referred to a number of previous convictions for social security fraud, where offenders were sentenced to ten months[~] imprisonment for a fraud  of  650,000  NOK,  one  year  for  a  fraud  of  1.1  million  NOK,  16 months for a fraud of 1 million NOK, and 18 months for a fraud of 2 mil-lion NOK."
+                "text": "the incision open. The inferior liver lobe was retracted using forceps. 10 million McA-RH7777 cells were suspended in 100 [~]L total injection volume constituted of basementmembrane matrix (Matrigel, Corning Life Sciences, Corning, NY, USA) and serum-freeDMEM - Dulbecco[~]s Modi[~]ed Eagle Medium (Thermo[~]sher Scienti[~]c, Waltham, MA, USA)in a 1:1 ratio. The cells were injected into the liver lobe. Pressure was applied on theinjection site using sterile cotton tip applicator and a sterile hemostatic compressed spongewas placed on the liver surface to prevent leakage. After 3 min, the sponge was removed,and the muscle layer was closed using absorbable sutures. The skin incision was closedusing wound staples. Animals were recovered until ambulatory. The wound staples wereremoved prior to pre-treatment MRI."
             },
-            "3": {
-                "bbox": [
-                    53.858,
-                    415.144,
-                    314.63,
-                    48.25
-                ],
-                "text": "The court of appeal wrote that [~]even if the defendant has experienced many  dramatic  and  sad  events  in  her  immediate  surroundings  over  the years, the court does not find any grounds to argue that there are mitigat-ing circumstances in this case[~]."
-            },
+            "3": {},
             "4": {
                 "bbox": [
-                    53.858,
-                    379.144,
-                    314.61899999999997,
-                    36.25
+                    165.188,
+                    81.206,
+                    395.832,
+                    514.332
                 ],
-                "text": "A claim of 993,994 NOK was submitted by NAV for payment of com-pensation. This claim was upheld, and she was ordered to pay this amount to NAV."
-            },
-            "5": {
-                "bbox": [
-                    135.329,
-                    348.625,
-                    148.87,
-                    14.699999999999989
-                ],
-                "text": "diFFerent KindS oF[~]icebergS"
-            },
-            "6": {
-                "bbox": [
-                    53.858,
-                    247.143,
-                    314.64,
-                    96.24999999999997
-                ],
-                "text": "Estimating the magnitude of white-collar crime is arguably a greater chal-lenge than estimating social security fraud or tax evasion, as illustrated in Fig.[~]8.1. The only known indication of its scope is the total number of convicted white-collar criminals. As illustrated in the figure, this is a small circle within the larger circle of total white-collar crime. When estimating social security fraud or tax evasion, there are two known amounts, not just one: the detected fraud as well as the total social security payments made, and the detected evasion as well as the total tax revenue owing."
-            },
-            "7": {
-                "bbox": [
-                    53.858,
-                    56.703,
-                    288.80899999999997,
-                    11.420999999999992
-                ],
-                "text": "Fig. 8.1  Estimation of the magnitude of different forms of financial crime"
+                "text": "Our rodent histotripsy setup (Figure 1a) consisted of a custom-built 1 MHz therapytransducer, co-aligned with a 20 MHz B-mode ultrasound imaging probe (L40-8/12, Ul-trasonix, Vancouver, Canada) mounted to a motorized 3-axis positioning system [22,27].The ring con[~]guration transducer (f number = 0.6, focal distance = 32.5 mm) contains8 individually focused lead zirconate titanate elements (20 mm diameter). The value ofpeak negative pressure in the tissue is estimated based on pressure measurements from[~]ber optic hydrophone in free-[~]eld [28]. In the free-[~]eld medium (degassed water), thepressure measurements from individual transducer elements were summed to calculate thepeak negative pressure (P[~]) of 37.8 MPa and the peak positive pressure (P+) of 43.9 MPa.The peak positive pressure may be underestimated without considering the non-linearitydeveloped when all elements are [~]red. However, the acoustic waveform at that high pres-sure with all elements [~]red simultaneously could not be measured due to instantaneouscavitation generation. The spatial peak temporal peak intensity (ISPTP) was estimated to be~130 kW/cm2, spatial peak pulse average intensity (ISPPA) was estimated to be ~24 kW/cm2and spatial peak temporal average (ISPTA) was estimated to be ~8 W/cm2. The transducerand imaging probe were immersed in a tank of degassed water maintained at 35[~]37 [~]C. Forhistotripsy treatment, animals were anesthetized by inhalation of iso[~]urane gas (1.5[~]2.0%)in 1 L/min of oxygen (SurgiVet V704001, Smiths Medical). The chest and abdominal regionswere shaved with an electric clipper. Carprofen (Rimadyl, P[~]zer, NY, USA) analgesic (5mg/kg) was used for analgesia prior to histotripsy and once every 24 h for two days post-ablation. The animal was placed on a custom-built platform over the tank such that the liverregion was submerged in the degassed water, which is the coupling medium (Figure 1a).Under ultrasound guidance, the therapy transducer was positioned to co-localize the focalzone of the therapy transducer focus with the tumor core. The entire tumor volume wasvisualized by scanning the imaging probe mounted on the motorized positioning system todetermine the limits of the intended target volume. In the scant histotripsy ablation cohort,<25% tumor volume was targeted for ablation. In all other animals receiving histotripsy,50[~]75% tumor volume was targeted. The desired fraction of tumor volume was targetedfor histotripsy ablation by mechanically scanning the histotripsy focus to cover the targetedvolume by using the motorized positioning system with continuous scan motion (scanvelocity ~6 mm/s). At each focal location within the target volume, the therapy transducerdelivered 1[~]2 cycle length histotripsy pulses (with a single high amplitude negative pres-sure phase) at 100 Hz PRF and generated peak negative pressure (P[~]) exceeding 30 MPa.P[~] >30 MPa exceeds the intrinsic threshold of the soft-tissue target (typically P[~] > 26 MPa)to generate inertial cavitation; this is the mechanism of intrinsic threshold histotripsy [28].During histotripsy, the generated cavitation appeared hyperechoic compared to the sur-rounding liver parenchyma on ultrasound imaging (Figure 1b). The size of the cavitationcloud was 1[~]3 mm. Post histotripsy-ablation, the targeted region appeared hypoechoic,indicative of tumor tissue disruption (Figure 1b). After treatment, animals were recovereduntil ambulatory. Total ablation time ranged from 3[~]5 min, at 100 Hz PRF equated to total18,000[~]30,000 pulses delivered to the intended target volume (ranging from 30 mm3 to 100"
             }
         },
         "4": {
@@ -275,169 +236,101 @@
             "1": {},
             "2": {
                 "bbox": [
-                    53.858,
-                    343.144,
-                    314.649,
-                    192.25
+                    165.975,
+                    721.706,
+                    393.30099999999993,
+                    26.125999999999976
                 ],
-                "text": "In estimating probabilities, both psychology and statistics are needed to guide expert elicitation. When experts are asked about the magnitude of the three different kinds of economic crime illustrated in the figure, psy-chological biases may, for example, cause left-wing respondents to claim a large fraction of undetected white-collar crime, while right-wing respon-dents may claim a large fraction of undetected social security fraud, simply because  they  disagree  about  law  enforcement  priorities.  Kynn  (2008) argues that humans make probability judgments through a series of heu-ristics which lead to systematic and predictable biases. She suggests that researchers  should  be  equally  concerned  with  what  they  ask  experts  to assess and how they ask it. Probability elicitation is influenced by a number of factors such as the tendency to judge the frequency of an event by the ease  of  remembering  specific  examples.  Furthermore,  anchoring  and adjustment is the tendency to anchor a probability estimate at an initial value  and  then  to  adjust  it  outwards.  Insufficient  adjustment  results  in biases of overestimation or underestimation when judging."
+                "text": "mm3). Histotripsy parameters were determined based on previous in vivo and in vitrowork done in our lab [22,29]."
             },
             "3": {
                 "bbox": [
-                    53.858,
-                    271.144,
-                    314.655,
-                    72.25
+                    166.098,
+                    425.261,
+                    394.74600000000004,
+                    88.15699999999998
                 ],
-                "text": "As  we  shall  see  below,  the  Norwegian  government  paid  194  billion NOK in social security, including public pensions to the elderly, to inhab-itants in Norway in 2015 (the dark gray area in the figure). It is claimed that 9.8 billion NOK should not have been paid out, and the government prosecutes  recipients  for  wrongful  payments.  The  estimated  fraction  of social security fraud is thus 5 percent (the light gray area)."
-            },
-            "4": {
-                "bbox": [
-                    53.858,
-                    211.144,
-                    314.629,
-                    60.25
-                ],
-                "text": "When estimating the magnitude of white-collar crime, we were faced with the opposite situation. We knew the fraction amount, but not the total amount. We knew that people were convicted of a total of 1.1 billion NOK annually in white-collar crime cases. Our experts suggest that this is only 10 percent of the total."
-            },
-            "5": {
-                "bbox": [
-                    65.858,
-                    199.144,
-                    302.599,
-                    12.25
-                ],
-                "text": "The magnitude of white-collar crime is affected by a number of factors. "
-            },
-            "6": {
-                "bbox": [
-                    53.858,
-                    187.144,
-                    140.968,
-                    12.25
-                ],
-                "text": "Three main effects are as follows:"
-            },
-            "7": {
-                "bbox": [
-                    65.858,
-                    127.144,
-                    302.61899999999997,
-                    48.25
-                ],
-                "text": " 1.  The gain that can be achieved serves to avoid a threat or to safe-guard a possibility. For example, a more ambitious goal orientation leads to a stronger desire for profit. This is the economic dimension of convenience theory."
-            },
-            "8": {
-                "bbox": [
-                    65.858,
-                    67.144,
-                    302.611,
-                    60.25
-                ],
-                "text": " 2.  The  effort  required  to  commit  financial  crime,  the  risk  that  the offense is detected, as well as encouragement from others to break the law. For example, a chief executive may act alone without  anyone noticing or controlling him or her. This is the organizational dimen-sion of convenience theory."
-            }
-        },
-        "5": {
-            "0": {},
-            "1": {
-                "bbox": [
-                    75.908,
-                    550.485,
-                    131.86599999999999,
-                    8.574999999999932
-                ],
-                "text": "P. GOTTSCHALK AND L. GUNNESDAL"
-            },
-            "2": {
-                "bbox": [
-                    65.858,
-                    487.144,
-                    302.64,
-                    48.25
-                ],
-                "text": " 3.  Excuses that can justify the offense by lack of self-control and applica-tion  of  neutralization  techniques.  For  example,  the  offender  may argue that everyone else does it, and that there is something wrong with the law. This is the behavioral dimension of convenience theory."
-            },
-            "3": {
-                "bbox": [
-                    65.858,
-                    463.144,
-                    299.81,
-                    12.25
-                ],
-                "text": "The magnitude of social security fraud is affected by a number of fac-"
+                "text": "Figure 1.(a) The rodent histotripsy treatment setup consisted of an 8 element 1 MHz therapytransducer delivering 1[~]2 cycle pulses at P[~] 30 MPa and 100 Hz PRF. A coaxially aligned 20 MHzimaging probe was used for real-time ultrasound guidance. Both transducers were mounted to amotorized positioning system and immersed in a tank of degassed water (coupling medium). Theanimal was placed in a prone position on a platform to allow the intended target region to submerge.(b) Generation of hyperechoic cavitation cloud in liver tumor. The ablated tumor region appearshypoechoic compared to surrounding liver parenchyma."
             },
             "4": {},
             "5": {
                 "bbox": [
-                    65.858,
-                    391.144,
-                    302.63,
-                    48.25
+                    165.895,
+                    200.859,
+                    395.121,
+                    200.509
                 ],
-                "text": "[~]  The effort required to commit fraud. The effort may vary depending on whether it is an active or a passive act, where the offender supplies misleading  information  or  simply  does  not  supply  sufficient information."
+                "text": "To assess tumor development, MRI was obtained within 1-day prior to histotripsy(pre-treatment timepoint) and within 1-day post-histotripsy (post-treatment timepoint).Weekly MRI was also used for monitoring ablation response. A 7.0 T MR small animalscanner using a Direct Drive console (Agilent Technologies, Santa Clara, CA, USA) wasused with a 60 mm inner-diameter transmit[~]receive radiofrequency (RF) volume coil (Mor-ris Instruments, Ottawa, ON, Canada). During imaging, rats were anesthetized usingiso[~]urane inhalation (1.5[~]2.0% in 1 L/min of oxygen) and temperature was monitoredusing rectal probes. Respiratory gating was used during image acquisition. A custom-builtproportional-integral-derivative (PID) controller (LabVIEW, National Instruments, Austin,TX, USA) was interfaced with a commercially available small animal system (SA Instru-ments, Stony Brook, NY, USA) to monitor respiration. Animal position in the scanner wascon[~]rmed with pilot scans. To visualize the tumor, a 2D T2-weighted fast spin-echo (FSE)in the coronal plane was used with the following parameters: (TR/TEeff = 2500/10 ms,FOV = 60 mm [~] 60 mm, slice thickness = 1 mm, data matrix (zero-[~]lled) = 256 [~] 256(512 [~] 512), resulting in a voxel size of 117 [~]m [~] 117 [~]m [~] 1000 [~]m, up to 28 slicesacquired and total scan time ~5 min)."
             },
+            "6": {},
+            "7": {
+                "bbox": [
+                    166.005,
+                    75.031,
+                    394.92600000000004,
+                    100.08500000000001
+                ],
+                "text": "After euthanasia, treated tumor, as well as liver tissue samples were harvested and[~]xed in 10% buffered formalin for histopathological analysis. Fixed tissue samples weresubmitted to ULAM-IVAC (Unit for Laboratory Animal Medicine[~]In Vivo Animal Core,Ann Arbor, MI, USA) for paraf[~]n embedding. Paraf[~]n block samples were submittedto McClinchey Histology Labs, Inc. (Stockbridge, MI, USA) for sectioning in 4-micronthick slices and preparing unstained slides, Masson[~]s trichrome stained slides, and hema-toxylin and eosin (H&E) slides. Slides were examined under high resolution microscope(KEYENCE BZ-X800, Keyence, Itasca, IL, USA) which was used to capture images."
+            }
+        },
+        "5": {
+            "0": {},
+            "1": {},
+            "2": {},
+            "3": {
+                "bbox": [
+                    165.975,
+                    530.423,
+                    394.94999999999993,
+                    200.50800000000004
+                ],
+                "text": "For multicolor immuno[~]uorescence antigen retrieval, the tissue sections were deparaf-[~]nized by passing 2 times in Xylene. The samples were then washed in Xylene Ethanolfollowed by pure ethanol and were then gradually rehydrated by passing through 70%,50%, 30% ethanol, and distilled water for 3 min each. Masked epitopes from the sectionswere recovered by heat-induced antigen retrieval buffer by using water bath at 90 [~]C for30 min. Two methods of heat-induced antigen retrieval were performed. Citrate bufferpH 6 (Abcam, Waltham, MA, USA) and/or Tris-EDTA pH 9 (Abcam) were used dependingon the nature of the antibody. For CD11b, CD8 and NK1.1 staining, after antigen retrieval,sections were transferred to PBS (Phosphate Buffered Saline, Thermo[~]sher Scienti[~]c) for30 min, and then the sections were blocked in 5% BSA (Bovine Serum Albumin). Afterwashing with PBS, the samples were incubated with a rabbit IgG speci[~]c for CD8a for 1 hat 37 [~]C. For visualization of CD8a, the sections were incubated in Alexa 555 labeled Goatanti-Rabbit IgG for 1 h at 37 [~]C. For visualization of CD11b and NK1.1, the sections wereincubated with 1:100 diluted anti-CD11B antibody (clone M/170, Biolegend, San Diego,CA, USA) directly conjugated with Alexa 488 and anti-NK1.1 antibody (Biolegend) directlyconjugated with Alexa 647 overnight at 4 [~]C."
+            },
+            "4": {
+                "bbox": [
+                    165.975,
+                    367.234,
+                    394.54599999999994,
+                    162.84999999999997
+                ],
+                "text": "For E-cadherin, N-cadherin, and vimentin staining, the sections were [~]rst incubatedin 1:100 dilution of anti-vimentin mouse IgG, clone V9 (MilliporeSigma, Burlington, MA,USA) at 37 [~]C, and secondary antibody staining was performed using Alexa 488 goatanti-mouse IgG. After each secondary antibody incubation, samples were washed for30 min in PBS to eliminate cross reactivity for next cycle of antibody staining. Sectionswere then incubated with 1:100 anti-N-cadherin antibody, clone 6A9.2 (MilliporeSigma)for 1 h at 37 [~]C. Secondary antibody staining was carried out using 1:100 Alexa 555 goatanti-mouse for visualization. After PBS wash, the sections were incubated with anti-Ecadherin antibody [4A2] (Abcam) for 1 h at 37 [~]C. After washing with PBS, the sectionswere counterstained with Alexa 647 goat anti-mouse IgG, for visualization. After the [~]nalstep of washing, the sections were quenched by using tissue auto[~]uorescence quenchingkit (Vector Biolabs, Malvern, PA, USA) and mounted using mounting media containing4(cid:48),6-diamidino-2-phenylindole (DAPI, 1:10,000; MilliporeSigma)."
+            },
+            "5": {},
             "6": {
                 "bbox": [
-                    65.858,
-                    355.144,
-                    302.644,
-                    36.25
+                    166.394,
+                    266.512,
+                    393.082,
+                    74.97800000000001
                 ],
-                "text": "[~]  The risk of detection of the crime. Most important is the subjective detection  probability,  which  is  the  likelihood,  as  perceived  by  the offender, of getting caught and being brought to justice."
+                "text": "Statistical analysis was performed using SAS software (version 9.4, SAS InstituteInc., Cary, NC, USA). The difference between treatment and controls was assessed usingone-way ANOVA. For survival data, Kaplan[~]Meier curves were generated. The survivaltime (de[~]ned as the time taken for animals to reach the tumor endpoint criteria, i.e., tumorburden greater than 25 mm in any single dimension) was compared between control andtreated rats using the log-rank test. p < 0.05 was considered signi[~]cant."
             },
             "7": {
                 "bbox": [
-                    65.858,
-                    343.144,
-                    302.61,
-                    12.25
+                    166.394,
+                    230.855,
+                    240.726,
+                    25.714000000000027
                 ],
-                "text": "[~]  The gain that can be achieved in the fraud, and the importance of "
+                "text": "3. Results3.1. Tumor Response to Histotripsy and Survival Outcomes"
             },
             "8": {
                 "bbox": [
-                    76.858,
-                    331.144,
-                    109.97800000000001,
-                    12.25
+                    166.095,
+                    164.892,
+                    394.831,
+                    62.426000000000016
                 ],
-                "text": "that gain for the offender."
+                "text": "All animals tolerated the orthotopic liver tumor inoculation procedure without com-plication. Seven to nine days after inoculation, MRI imaging indicated a minimum tumordiameter of 5 mm in all animals. Histotripsy was performed successfully in all treatmentcohort animals with no complications, and the post-procedure monitoring revealed noclinical issues."
             },
             "9": {
                 "bbox": [
-                    65.858,
-                    295.144,
-                    302.63,
-                    36.25
+                    166.1,
+                    89.575,
+                    394.832,
+                    75.38600000000001
                 ],
-                "text": "[~]  Encouragement from others to commit the crime. For example, a network  of  social  security  abusers  invites  newcomers  into  a  fraud scheme."
-            },
-            "10": {
-                "bbox": [
-                    65.858,
-                    247.144,
-                    302.649,
-                    48.25
-                ],
-                "text": "[~]  Excuses  that  can  justify  the  offense  to  the  offender.  For  example, even  if  social  security  payments  are  quite  reasonable  in  Norway, recipients of social support certainly do not belong to the wealthy part of the population. An offender may feel entitled to extra profit."
-            },
-            "11": {
-                "bbox": [
-                    111.713,
-                    216.626,
-                    196.102,
-                    14.699999999999989
-                ],
-                "text": "MAgnitude oF[~]SociAl Security FrAud"
-            },
-            "12": {
-                "bbox": [
-                    53.858,
-                    79.144,
-                    314.64,
-                    132.25
-                ],
-                "text": "At  least  in  Norway,  and  probably  in  many  other  countries  as  well,  law enforcement  has  a  tendency  to  focus  on  losers  in  society  who  commit crimes.  Sutherland  (1939),  who  coined  the  term  [~]white-collar  crime[~], was  the  first  to  point  out  that  the  elite  in  society  is  seldom  prosecuted when it members break the laws developed by the elite. Although this fac-tor was identified decades ago, many nations, such as Norway, still strug-gle to fight financial crime committed by members of the upper class in society. When cases come up, then they are often treated as single cases of individuals  who  were  unfortunate  in  their  positions.  Against  this  background, it is interesting to compare the estimated magnitude of social security fraud with the estimated magnitude of white-collar crime."
+                "text": "In the survival cohort, 81.8% (n = 9/11) treatment animals experienced tumor burden re-duction, following partial histotripsy ablation, and had tumor-free survival for the remainderof the study. In comparison, 100% (n = 11/11) untreated control animals demonstrated in-creased tumor burden and intrahepatic metastasis, and had to be euthanized within 1[~]3 weekspost-treatment timepoint (Table S1). Histotripsy-treated animals had statistically significantimproved survival outcomes compared to controls, with a p-value < 0.0001 (Figure 2)."
             }
         },
         "6": {
@@ -445,145 +338,72 @@
             "1": {},
             "2": {
                 "bbox": [
-                    53.858,
-                    427.144,
-                    314.65,
-                    108.25
+                    166.017,
+                    438.08,
+                    395.003,
+                    49.69200000000001
                 ],
-                "text": "In recent years, the Norwegian media have repeatedly directed much attention towards social security fraud. There are stories of the Norwegian social security authority (NAV) reporting not just hundreds, but over the years thousands, of people for fraud to the police. The secretary for labor in the Norwegian government repeatedly says she will make NAV swin-dlers unsafe. NAV is able to provide solid evidence that fraudulent recipi-ents have received too much support from the social security system, and via the police such swindlers are prosecuted in the courts where some are convicted and sentenced to imprisonment."
+                "text": "Figure 2. Kaplan[~]Meier survival curve indicates signi[~]cant difference in survival outcomes ofhistotripsy-treated animals vs. untreated controls for tumor progression (p < 0.0001). [~]+ Censored[~]indicates that observations are right censored as n = 2/11 histotripsy animals still surviving at 7 weekswith no observable tumor were euthanized due to COVID shutdown."
             },
             "3": {
                 "bbox": [
-                    53.858,
-                    367.144,
-                    314.627,
-                    60.25
+                    166.095,
+                    289.894,
+                    394.42599999999993,
+                    144.33499999999998
                 ],
-                "text": "In its report from 2011, the Norwegian analysis bureau Proba (2011) concludes regarding sick pay that at least 6 percent of payments are prob-ably wrongly paid to beneficiaries who deliberately misinform NAV. This estimate emerged from questioning a group of experts, consisting of sci-entists, medical doctors, and mainly employees at NAV."
+                "text": "The survival time in the control group was 1.45 [~] 0.69 (mean [~] SEM) weeks. In thetreatment group, the survival time was 10 [~] 0.84 weeks. All survival times are reportedpost-histotripsy timepoint, which was two weeks post-tumor inoculation. The survival timerange was 1[~]3 weeks (control group) and 6[~]12 weeks (treatment group) after histotripsytimepoint. n = 7/11 animals in partial ablation group A were alive at 12 weeks, with noobservable tumor, and were euthanized due to study endpoint, per our protocol. In theseanimals, even with partial ablation of the tumor, we observed complete regression of bothablated and untargeted tumor. n = 2/11 animal in the treatment group were euthanizedat 6 weeks due to tumor burden greater than 25 mm in any one dimension. As such,2/11 histotripsy animals with complete regression and no metastases were euthanizedearly at 7 weeks, due to research shutdown during COVID."
             },
-            "4": {
-                "bbox": [
-                    53.858,
-                    259.144,
-                    314.718,
-                    108.25
-                ],
-                "text": "In a new report two years later, Proba (2013) applied the same method to conclude that for five other social security schemes the total magnitude of fraud might be 5 percent of the total payments from the government (parental 3.2 percent, unemployment 4.1 percent, disability 4.5 percent, work assessment allowance 6.6 percent, and transitional to single parents 12.8 percent). Proba then multiplied the yearly expenses with the assumed fraud percentage for each social security scheme. Its approach resulted in an estimated 6 billion NOK ($0.75 billion) for the five schemes and 2 billion NOK ($0.25 billion) for sick pay, totaling 8 billion NOK ($1 billion)."
-            },
+            "4": {},
             "5": {
                 "bbox": [
-                    53.858,
-                    187.144,
-                    314.623,
-                    72.25
+                    166.065,
+                    189.171,
+                    393.59999999999997,
+                    74.97899999999998
                 ],
-                "text": "Based  on  the  total  amounts  that  were  paid  under  these  benefits (194  billion  NOK)  Proba[~]s  (2013)  estimate  of  the  total  social  security fraud in 2015 amounted to as much as 9.8 billion NOK, or 5.1 percent of the total payments under the six schemes. This is a very high figure and Proba emphasizes that there are large uncertainties in its estimate. The introduction to their 2013 report states that:"
+                "text": "At the histotripsy timepoint (7[~]9 days post tumor inoculation), untreated tumorsappeared hyperintense on T2-weighted MRI, compared to the adjacent normal liver tissue(Figure 3a). The tumor volume was 86.25 [~] 15.12 mm3 (mean [~] SEM) in the histotripsygroup and 123.20 [~] 25.87 mm3 (mean [~] SEM) in the control group. The difference was notstatistically signi[~]cant (p = 0.232). Subsequent timepoints are measured from the histotripsytimepoint (week 0)."
             },
             "6": {
                 "bbox": [
-                    65.858,
-                    109.413,
-                    290.384,
-                    66.015
+                    166.394,
+                    151.512,
+                    393.269,
+                    37.31999999999999
                 ],
-                "text": "[~]if  we  add  up  the  estimated  amounts  that  are  the  result  of  fraudulent behavior, we find that 5 percent of the total expenses for the five schemes are  probably  subject  to  fraud.  We  should  note  that  these  estimates  are higher than what the experts think is most likely. The reason is that they see a clear risk that the correct figure is higher than the number they think is most likely."
-            },
-            "7": {
-                "bbox": [
-                    53.858,
-                    73.144,
-                    314.61899999999997,
-                    24.25
-                ],
-                "text": "As a measure of this uncertainty, Proba (2013) indicates where expert limits are found in terms of 10 percent likelihood that the fraud fraction is "
+                "text": "In all control animals, a multinodular primary tumor, along with multiple secondarymetastatic nodules, was observed in 1[~]3 weeks (Figure 3a), and the animals had to beeuthanized due to increased tumor burden."
             }
         },
         "7": {
             "0": {},
-            "1": {
-                "bbox": [
-                    75.908,
-                    550.485,
-                    131.86599999999999,
-                    8.574999999999932
-                ],
-                "text": "P. GOTTSCHALK AND L. GUNNESDAL"
-            },
+            "1": {},
             "2": {
                 "bbox": [
-                    53.858,
-                    513.113,
-                    314.336,
-                    22.22099999999989
+                    165.945,
+                    369.412,
+                    394.897,
+                    126.62300000000005
                 ],
-                "text": "Table  8.1  Comparison  of  estimates  for  white-collar  crime  and  social  security fraud"
+                "text": "Figure 3. Representative T2-weighted MR images for (a) untreated control, (b) histotripsy-treatedtumor showing complete regression, and (c) histotripsy-treated tumor with local tumor progression.(a) Untreated control tumor appeared hyperintense compared to surrounding liver parenchymaat pre-treatment timepoint, developed metastases at week 1 which grew aggressively by week 2.White arrows show the tumor location. (b) Post-ablation, the ablated region appears hyperintense(yellow arrow) compared to untargeted tumor (blue arrow) likely due to edema (image acquired 8 hpost-treatment). By week 2, tumor appeared to regress (blue arrow) and was undetectable from week3 onwards. (c) Post-ablation, the ablated region (yellow arrow) appears hypointense (image acquiredwithin 2 h post-treatment). At week 2, the tumor did not show signs of size regression (blue arrow).Local tumor progression and metastases were observed by week 6 (white arrow)."
             },
-            "3": {},
-            "4": {
+            "3": {
                 "bbox": [
-                    120.172,
-                    477.572,
-                    112.80000000000001,
-                    9.791999999999973
+                    166.085,
+                    221.789,
+                    394.92999999999995,
+                    137.743
                 ],
-                "text": "White-collar crime (billion NOK)"
+                "text": "In the treatment group, the ablated tumor region demonstrated a hyperintense appear-ance (if the imaging was performed >6 h after treatment) (Figure 3b) or demonstrated ahypointense appearance (if the imaging was performed within 4 h of treatment) (Figure 3c).The untargeted tumor region showed a similar appearance to the control tumor. In 9/11 an-imals, both ablated and unablated tumors began to demonstrate regression at 1 weekpost-treatment, and there was no detectable tumor on the MRI by 3 weeks (Figure 3b). Inthese animals, no recurrence or metastasis was observed until the study endpoint wasreached. Of note, local tumor progression and metastases were observed in 2/11 animals,leading to increased tumor burden and the animals were euthanized at 6 weeks post-treatment (Figure 3c). No off-target ablation damage to skin or surrounding organs in anyhistotripsy animals was observed visually or on MRI images acquired post histotripsy."
             },
+            "4": {},
             "5": {
                 "bbox": [
-                    242.396,
-                    477.572,
-                    118.56000000000003,
-                    9.791999999999973
+                    165.975,
+                    58.301,
+                    394.549,
+                    137.74399999999997
                 ],
-                "text": "Social security fraud (billion NOK)"
-            },
-            "6": {},
-            "7": {},
-            "8": {},
-            "9": {
-                "bbox": [
-                    53.858,
-                    331.142,
-                    314.64,
-                    72.25
-                ],
-                "text": "lower  or  higher.  The  overall  estimate  of  5.1  percent  is  thus  what  the experts as a panel believe is most likely, with a minimum border of 1.4 percent and a maximum border of 11.3 percent, for fraud. Translated into monetary terms, these percentages suggest that the scope of social security fraud can be anywhere between 2.6 billion NOK and 21.9 billion NOK, see Table[~]8.1."
-            },
-            "10": {
-                "bbox": [
-                    53.858,
-                    235.142,
-                    314.654,
-                    96.25
-                ],
-                "text": "Another significant element of uncertainty in Proba[~]s estimate is that there is a distinct gap between the perceptions of the various experts. For example, one expert said that the proportion of fraud in disability benefits is as high as 15 percent, while consensus among the other eight experts ranged from 2.5 percent to 5 percent. The Proba (2013) report points out that his one estimate is so extreme that it increases the average esti-mated fraud amount in this area from 3.2 percent to 4.5 percent, or by 1.1 billion NOK."
-            },
-            "11": {
-                "bbox": [
-                    53.858,
-                    151.142,
-                    314.637,
-                    84.25
-                ],
-                "text": "In 2015, NAV reported to the police 1472 people in 1559 cases who committed fraud totaling 303 million NOK.[~]Almost all cases were in the six different support schemes mentioned above. NAV reported cases of 200,000 NOK on average to the police. This is in contrast to white-collar crime cases, each of several million NOK.[~]Most social security fraud was related to unemployment benefits (121 million NOK in total) and work assessment allowance (98 million NOK in total)."
-            },
-            "12": {
-                "bbox": [
-                    53.858,
-                    91.142,
-                    314.649,
-                    60.25
-                ],
-                "text": "Unemployment benefits and transitional benefits were the two schemes with the largest fraction of total police reports that year (0.9 percent of all recipients). Overall, the reported cases constituted as little as 0.15 percent of total disbursements in 2015. So this is the tip of the iceberg, or the known size, when it comes to social security fraud of 0.3 billion NOK."
-            },
-            "13": {
-                "bbox": [
-                    53.858,
-                    67.142,
-                    314.628,
-                    24.25
-                ],
-                "text": "Meanwhile, we recall that the experts Proba polled were of the opinion that the fraud proportion is 5.1 percent, or more than 30 times higher. "
+                "text": "In control animals, multinodular local tumor progression was observed on H&Estaining (Figure 4a). In these cases, aggressive tumor growth occupied most of the liverlobe, both at the site of the original tumor and Intrahepatic metastases (Figure 4a). In treatedanimals demonstrating complete tumor regression, there was ~1 mm residual scar tissue,with scattered dystrophic calci[~]cation at the site of the original tumor, and no evidenceof viable tumor cells on H&E staining (Figure 4b). These histology observations correlatewith the MRI observation of no detectable tumor at the original treatment site, indicatingcomplete regression of these tumors, with resultant formation of focal scar tissue. In treatedanimals demonstrating tumor progression, collagenous tissue with regions of dystrophiccalci[~]cation was observed in the ablation cavity (Figure 4c). The local tumor progression ofthe residual, untargeted tumor had a similar appearance to the control tumor."
             }
         },
         "8": {
@@ -591,132 +411,52 @@
             "1": {},
             "2": {
                 "bbox": [
-                    53.858,
-                    463.144,
-                    314.638,
-                    72.25
+                    166.044,
+                    247.253,
+                    394.80500000000006,
+                    152.26600000000002
                 ],
-                "text": "For disability benefit and parental benefit schemes, the experts estimated that the fraud is over 200 times greater than the amount actually reported by NAV to the police. In other words, Proba[~]s (2013) expert panel sug-gest that the magnitude of the invisible part of the iceberg is enormous, and  that  NAV  only  manages  to  capture  a  very  small  proportion  of  the fraud that it believes is actually occurring."
+                "text": "Figure 4. H&E-stained representative images for (a) untreated control, (b) histotripsy-treated tumorshowing complete regression, and (c) histotripsy-treated tumor with local tumor progression (L: Liver,A: Ablation Zone, T: Tumor). For each row, the [~]rst panel shows a low-magni[~]cation view of theentire tissue section, with an identi[~]ed region of interest (ROI), the second and third panel showthe ROI at higher magni[~]cations. (a) Control tumor[~]Week 1: Intra-hepatic tumor progression andmetastases are observed in the untreated control. Tumor growth occupied most of the liver lobe.(b) Histotripsy-treated tumor[~]Week 12: In a treated tumor demonstrating regression, ~1 mm scartissue with scattered dystrophic calci[~]cation in the ablation zone (white arrow) and in[~]ammatorycells (black arrow) within and surrounding the ablation zone are observed. (c) Histotripsy-treatedtumor[~]Week 6: In a treated tumor demonstrating local tumor progression, multinodular tumorgrowth is observed. Collagenous tissue with scattered dystrophic calci[~]cation is observed in theablation zone (white arrow). A few in[~]ammatory cells are seen in the ablation zone (black arrow)."
             },
             "3": {
                 "bbox": [
-                    53.858,
-                    355.144,
-                    314.659,
-                    108.25
+                    166.394,
+                    226.897,
+                    224.21800000000002,
+                    12.413000000000011
                 ],
-                "text": "In addition to the expert panel, Proba (2013) also carried out survey research  among  employees  at  NAV.  The  purpose  was  to  compare  and support expert estimates. When asked what percentage of swindlers they think is discovered, they responded on average with 11 percent for the six schemes. This results in fraud of only 2.7 billion NOK (0.3 [~] 100 / 11). The sum of 2.7 billion NOK from survey research can be compared to 9.8 billion NOK from expert elicitation. An iceberg tip of 11 percent for social security fraud can also be compared to an iceberg tip of 9.4 percent for white-collar crime."
+                "text": "3.4. Histology Observations in Early Timepoint Groups"
             },
             "4": {
                 "bbox": [
-                    53.858,
-                    247.144,
-                    314.729,
-                    108.25
+                    166.085,
+                    148.381,
+                    394.937,
+                    74.97900000000001
                 ],
-                "text": "If 11 percent is indeed a relevant estimate (and the reported amount is equal to only 0.15 percent of total security payments under the six schemes), then this result indicates that the real fraud is in the order of 1.4 percent, or just over one-quarter of the expert panel[~]s estimate in the same report by Proba (2013). Conversely, if the experts estimate that the scam is over 30 times greater than what is reported to the police, this implicitly means that NAV in its detection does not reach 11 percent, but achieves only 3 per-cent. The implication is either that the NAV detection fraction is extremely low or that the expert panel provided unrealistically high estimates."
-            },
-            "5": {
-                "bbox": [
-                    53.858,
-                    175.144,
-                    314.64,
-                    72.25
-                ],
-                "text": "The survey research also revealed that some NAV employees see a ban-dit  in  nearly  every  beneficiary.  When  asked  what  percentage  of  those receiving disability benefits and work assessment allowance [~]do not meet the  requirements  or  knowingly  violate  the  rules[~],  several  respondents indicated that as many as 30, 40, or 50 percent of recipients might fit this description."
-            },
-            "6": {
-                "bbox": [
-                    53.858,
-                    103.144,
-                    314.649,
-                    72.25
-                ],
-                "text": "Admittedly, NAV demanded an additional 1.2 billion NOK in 2015 to be paid back by beneficiaries, in addition to the 300 million NOK reported to the police. The 1.2 billion NOK is made up of numerous, smaller, fraud cases  that  are  not  reported  to  the  police.  The  incorrect  payments  are caused  by  the  user,  but  not  necessarily  because  of  gross  negligence  or intention to commit social security fraud."
-            },
-            "7": {
-                "bbox": [
-                    53.858,
-                    67.144,
-                    314.649,
-                    36.25
-                ],
-                "text": "Some may argue that the visible part of the iceberg is not just 300 mil-lion NOK, but 1.2 billion NOK, and then the expert estimate from Proba (2013) emerges as more realistic. However, there is no exact method to "
+                "text": "Trichrome staining of the control tumor on day 2 revealed nodular tumor extensionsfrom the primary nodule, as well as areas of collagen deposition in the tumor core, indicativeof necrotic regions (Figure 5a). In comparison, at day 2 post-histotripsy, there is a thinrim of immune cells surrounding the periphery of the ablated tumor and liver (Figure 5b).There are intact tumor cells, adjacent to the ablation zone, indicative of the untargeted,residual tumor. The core of the ablation zone shows blood products."
             }
         },
         "9": {
             "0": {},
-            "1": {
-                "bbox": [
-                    75.908,
-                    550.485,
-                    131.86599999999999,
-                    8.574999999999932
-                ],
-                "text": "P. GOTTSCHALK AND L. GUNNESDAL"
-            },
+            "1": {},
             "2": {
                 "bbox": [
-                    53.858,
-                    511.144,
-                    314.65,
-                    24.25
+                    166.098,
+                    127.4,
+                    394.671,
+                    229.19899999999998
                 ],
-                "text": "indicate what part of the claimed amount of 1.2 billion NOK should be taken into account as part of the iceberg tip in this case."
+                "text": "Figure 5. Trichrome-stained representative images for (a) untreated control tumor (Day 2), (b) histotripsy-treated tumor (Day 2), (c) untreated control tumor (Day 7), (d) histotripsy-treated tumor (Day 7), and(e) scant histotripsy-treated (<25% tumor volume ablated) tumor (Day 7). All days are measuredfrom the histotripsy-treatment timepoint. (L: Liver, A: Ablation Zone, T: Tumor). (a) Control[~]Day 2:Nodular tumor extensions from the primary nodule are observed (black arrows), areas of collagendeposition are observed in the tumor core (white arrow). (b) Histotripsy[~]Day 2: The ablation zonecan be distinguished from the untreated residual tumor region. A metastatic nodule is observed(white arrow). The ablation zone consists of mostly acellular debris with scattered red and white bloodcells (black arrow). (c) Control[~]Day 7: Local tumor progression of the primary tumor and multiplemetastatic nodules are observed, colonizing most of the liver lobe. Tumor cells at the peripherydemonstrate invasive characteristics (white arrow), at the location where a thin rim of collagenoustissue separating the tumor from normal liver is breached (black arrow). (d) Histotripsy[~]Day 7:Tumor is replaced by scar tissue with areas of dystrophic calci[~]cation (black arrow), substantialin[~]ltration of in[~]ammatory cells, and few red blood cells. No viable tumor cells are observed. (e)Scant Histotripsy[~]Day 7: Local tumor progression of the primary tumor and a metastatic nodule(black arrow) are observed with an area of scar tissue within the ablation zone. The ablation zonecontains red blood cells and collagen. In[~]ammatory cells are observed mainly at the periphery of theablation zone, but not at the core of the ablation zone."
             },
             "3": {
                 "bbox": [
-                    53.858,
-                    427.144,
-                    314.639,
-                    84.25
+                    166.065,
+                    67.084,
+                    394.45599999999996,
+                    49.87299999999999
                 ],
-                "text": "A different estimate in 2013 was calculated by consultants from SAS Institute who ended up with a total of 2 billion NOK of social security fraud in Norway. In addition, they found 8 billion NOK that was caused by system and procedural errors at NAV. The total of 10 billion NOK is very similar to Proba[~]s 9.8 billion NOK, but with the major difference being that incorrect payments were caused by NAV rather than by fraud committed by social security recipients."
-            },
-            "4": {
-                "bbox": [
-                    53.858,
-                    379.144,
-                    314.61,
-                    48.25
-                ],
-                "text": "[~]Ten  billion  is  an  unimaginably  large  amount[~],  the  secretary  for employment in Norway is reported to have said, [~]It goes without saying that we have much to gain by strengthening efforts to combat social secu-rity fraud.[~]"
-            },
-            "5": {
-                "bbox": [
-                    53.858,
-                    295.144,
-                    314.638,
-                    84.25
-                ],
-                "text": "However,  as  it  turned  out,  according  to  SAS  Institute,  8  out  of  the 10 billion NOK was caused by social security service error and not by the recipients. In essence, there were system and procedural errors at NAV accounting for the majority of misconduct. Rather than pursue even rela-tively small amounts all the way through the court system, NAV should instead  strengthen  efforts  to  combat  fraud  by  improving  its  internal practices."
-            },
-            "6": {
-                "bbox": [
-                    53.858,
-                    199.144,
-                    314.644,
-                    96.25
-                ],
-                "text": "Internal malpractice at NAV was highlighted in the fall of 2016. Media reports stated that [~]the public prosecutor is investigating the NAV scan-dal[~], [~]notifications and whistleblowers were ignored[~], and social security recipients [~]could have avoided jail[~]. This is indeed worrying, especially given that the fraction of reports from NAV that were dismissed by the police had been reduced from 24 percent in 2011 to 15 percent in 2015. Out of all fraud cases brought in front of a judge, almost all (97.3 percent) led to convictions in 2015. Many convicts might have been innocent."
-            },
-            "7": {
-                "bbox": [
-                    53.858,
-                    103.144,
-                    314.643,
-                    96.25
-                ],
-                "text": "Since 2002, NAV has accused about 1,300 individuals of unemploy-ment benefit fraud involving falsely high amounts. Police investigators and state prosecutors have relied blindly on figures from NAV and prosecuted individuals for social security fraud based on these amounts. An inquiry conducted  in  2017  by  the  Norwegian  attorney  general  concluded  that more than 600 individuals had been sentenced severely. Many had been sentenced too severely, and many were unlawfully sentenced to commu-nity service rather than just paying a fine."
-            },
-            "8": {
-                "bbox": [
-                    53.858,
-                    67.144,
-                    314.612,
-                    36.25
-                ],
-                "text": "White-collar  criminals  and  their  attorneys  would  never  accept  such accusations from authorities without even being able to control and chal-lenge claims."
+                "text": "The control tumor at day 7 shows invasive appearance at the tumor periphery andmultiple secondary tumor nodules (Figure 5c). In comparison, at day 7 post-histotripsy,there is evidence of homogenate resorption, with [~]brotic or scar tissue beginning to form(Figure 5d). In[~]ammatory cells are scattered within the scar tissue and there is no evidence"
             }
         },
         "10": {
@@ -724,105 +464,88 @@
             "1": {},
             "2": {
                 "bbox": [
-                    53.858,
-                    487.144,
-                    314.64,
-                    48.25
+                    166.095,
+                    658.941,
+                    394.429,
+                    87.53199999999993
                 ],
-                "text": "The review above shows that there is a legitimate question to ask: Is the estimate  for  annual  social  security  fraud  of  about  10  billion  NOK  too high? But this number is the only one that NAV has in terms of metrics in this area, and therefore the figure lives on in the public[~]s mind."
+                "text": "of intact tumor cells. On day 7 after scant histotripsy, collagenous deposition is observed,but there is no evidence of dystrophic calci[~]cation (Figure 5e). While there is evidenceof blood products at the core, in[~]ammatory cells are mainly con[~]ned to the ablationzone periphery. The appearance of the ablation zone is similar to the day 2 appearancepost-histotripsy. These results suggest that the process of homogenate resorption andformation of scar tissue may be protracted in the scant histotripsy cohort, as compared tothe histotripsy cohort."
             },
             "3": {
                 "bbox": [
-                    53.858,
-                    391.144,
-                    314.65,
-                    96.25
+                    166.394,
+                    636.734,
+                    283.277,
+                    12.413000000000011
                 ],
-                "text": "Although  the  9.8  billion  NOK  ($1.2  billion)  is  enormous  in  a  small nation like Norway, we suggest that the value for white-collar crime is even larger. So the magnitude itself should not be the issue. When the police prioritize hundreds and thousands of small-scale economic crime cases like social security fraud, then there tends to be few police resources left to investigate  large-scale  economic  crime  cases.  While  social  security  fraud cases are concerned with the equivalent of less than $50,000 each, large-scale white-collar crime cases are valued at several million dollars each."
+                "text": "3.5. Observations from Immuno[~]ourescence Staining of Immune Cells"
             },
             "4": {
                 "bbox": [
-                    53.858,
-                    343.144,
-                    314.635,
-                    48.25
+                    166.065,
+                    558.218,
+                    393.51899999999995,
+                    76.33900000000006
                 ],
-                "text": "The victim of social security fraud is always the community ultimately. Victims  of  white-collar  crime  are  a  mixed  group,  such  as  employers, banks,  customers,  and  the  community.  In  criminal  law,  all  victims  are equally important."
+                "text": "To determine the immune effects of histotripsy, in[~]ltration of CD11b+ cells, CD8+ Tcells and NK cells was compared in histotripsy-treated tumors vs. control tumors. At thecore and the periphery of the control tumor, there is minimal immune in[~]ltration on day 2(Figure 6a). On day 2, increased immune in[~]ltration of CD11b+ and NK cells is observed atthe ablation zone periphery, compared to the control tumor periphery (Figure 6b). NK cellsare also detected in the ablation zone on day 2 (Figure 6b)."
             },
             "5": {
                 "bbox": [
-                    145.658,
-                    312.626,
-                    128.21200000000002,
-                    14.700000000000045
+                    166.098,
+                    210.444,
+                    394.662,
+                    183.612
                 ],
-                "text": "SociAl conFlict theory"
+                "text": "Figure 6. Representative multiplex immunohistochemistry images obtained at 20[~] magni[~]cationshowing immune cell in[~]ltration in (a) untreated control (Day 2), (b) histotripsy-treated tumor(Day 2), (c) untreated control (Day 7), (d) histotripsy-treated tumor (Day 7) and (e) scant histotripsy-treated (<25% tumor volume ablated) tumor (Day 7) at the tumor periphery (top) and tumor core(bottom). All days are measured from the histotripsy-treatment timepoint. (L: Liver, A: AblationZone, T: Tumor). The samples were stained for DAPI (blue), CD11b (green), CD8 (red) and NK(pink). (a) Control[~]Day 2: There is minimal immune in[~]ltration at the core of the untreated controltumor. (b) Histotripsy[~]Day 2: At the periphery, increased in[~]ltration of CD11b+ and NK cells isobserved, NK cells are also observed at the core of the ablation zone. (c) Control[~]Day 7: Thereis some in[~]ltration of CD8+ cells at the periphery, but no substantial in[~]ltration is observed at thetumor core. (d) Histotripsy[~]Day 7: NK and CD8+ cells in[~]ltrated the tumor periphery and werealso detected at the core of the ablation zone. (e) Scant Histotripsy[~]Day 7: Some CD8+ and NK cellsare observed at the untargeted tumor[~]liver interface, but no substantial in[~]ltration is observed in theablation zone."
             },
             "6": {
                 "bbox": [
-                    53.858,
-                    235.144,
-                    314.612,
-                    72.25
+                    166.065,
+                    74.811,
+                    394.954,
+                    126.54999999999998
                 ],
-                "text": "Social conflict theory suggests that the powerful and wealthy in the upper class of society define what is right and what is wrong. The rich and mighty can behave like [~]robber barons[~] because they make the laws. Therefore, the ruling class does not consider a white-collar offense as a regular crime, and  certainly  not  one  similar  to  street  crime.  Why  would  the  powerful punish their own?"
-            },
-            "7": {
-                "bbox": [
-                    53.858,
-                    55.144,
-                    314.75,
-                    180.25
-                ],
-                "text": "Social conflict theory views financial crime as a function of the conflict that exists in society (Siegel 2011). The theory suggests that class conflict causes crime in any society, and that those in power create laws to protect their rights and interests. For example, embezzlement by employees is a violation of law to protect the interests of the employer. However, it might be argued that an employer must and should protect its own assets. Bank fraud is a crime to protect the powerful banking sector. However, from the perspective  of  conflict  theory  one  might  argue  that  a  bank  should  have systems in place making bank fraud impossible and suffers if it does not. If an  employee  has  no  opportunity  to  commit  embezzlement,  and  if  a  fraudster has no opportunity to commit bank fraud, then these kinds of financial crime would never occur, and there would be no need to have laws against  such  offenses.  Law  enforcement  protects  powerful  companies against counterfeit products, although they should be able to protect them-selves by reducing opportunities for the production of such products."
+                "text": "On day 7, there is some in[~]ltration of CD8+ T cells at the core and periphery of thecontrol tumor, as compared to day 2 (Figure 6c). CD8+ T-cell in[~]ltration is also observedat the boundaries of the histotripsy ablation zone, while NK cells and CD8+ cells aredetected in the ablation zone core on day 7 (Figure 6d). In case of scant histotripsy ablation,reduced immune in[~]ltration of CD8+ and NK cells is observed at the boundary of untreatedtumor and normal liver in comparison to day 2 and day 7 post-histotripsy (Figure 6e).Similarly, within the scant histotripsy ablation zone, the immune in[~]ltration is insubstantial(Figure 6e). Overall, increased immune in[~]ltration is observed in histotripsy tumors,compared to controls on day 2 and day 7 post-treatment timepoint. It is possible that there isa minimum tumor fraction threshold that should be ablated to generate meaningful immune"
             }
         },
         "11": {
             "0": {},
-            "1": {
-                "bbox": [
-                    75.908,
-                    550.485,
-                    131.86599999999999,
-                    8.574999999999932
-                ],
-                "text": "P. GOTTSCHALK AND L. GUNNESDAL"
-            },
+            "1": {},
             "2": {
                 "bbox": [
-                    53.858,
-                    439.144,
-                    314.659,
-                    96.25
+                    166.065,
+                    721.706,
+                    393.59700000000004,
+                    24.76699999999994
                 ],
-                "text": "Social conflict theory holds that laws and law enforcement are used by dominant groups in society to minimize threats to their interests posed by[~]those whom they perceive as dangerous and greedy (Petrocelli et[~]al. 2003). Crime is defined by legal codes and sanctioned by institutions of criminal justice to secure order in society. The ruling class secures order in the ruled class by means of laws and law enforcement. Conflicts and clashes between interest groups are restrained and stabilized by law enforcement (Schwendinger and Schwendinger 2014)."
+                "text": "effects, as evidenced by the diminished immune in[~]ltration observed in scant histotripsy(<25% volume ablation) vs. histotripsy treated tumors (50[~]75% volume ablation)."
             },
             "3": {
                 "bbox": [
-                    53.858,
-                    211.144,
-                    314.639,
-                    228.25
+                    166.394,
+                    699.499,
+                    373.827,
+                    12.413000000000011
                 ],
-                "text": "According  to  social  conflict  theory,  the  justice  system  is  biased  and designed to protect the wealthy and powerful. The wealthy and powerful can take substantial assets out of their own companies at their own discre-tion whenever they like, although employed workers in the companies are the ones who create the value. The super-rich can exploit the wealth that they have created as owners of corporations as long as they do not hurt other shareholders and employees have no right to object. It is no crime to take out value from one[~]s own enterprise and build private mansions with the money. Even when owners have simply inherited wealth created by  earlier  generations,  they  can  use  it  freely  for  private  consumption. Similarly, top executives who are on each other[~]s corporate boards grant each other salaries that are 10[~]20 times higher than regular employee sala-ries. As Haines (2014: 21) puts it, [~]financial practices that threaten corpo-rate interests, such as embezzlement, are clearly identified as criminal even as obscenely high salaries remain relatively untouched by regulatory con-trols[~]. Furthermore, sharp practices such as insider trading that threaten confidence in equities markets have enjoyed vigorous prosecution, since the powerful see them as opaque transactions that give an unfair advantage to those who are not members of the market institutions."
+                "text": "3.6. Observations for Immuno[~]ourescence Staining for Epithelial and Mesenchymal Markers"
             },
             "4": {
                 "bbox": [
-                    53.858,
-                    103.144,
-                    314.639,
-                    108.25
+                    166.115,
+                    533.113,
+                    394.40599999999995,
+                    162.84899999999993
                 ],
-                "text": "Karl  Marx  who  analyzed  capitalism  and  suggested  the  transition  to socialism and ultimately to communism, created the basis for social con-flict theory. Capitalism is an economic system in which persons privately own trade, industries, firms, shops, and means of production and operate these enterprises for profit. Socialism is an economic system characterized by  cooperative  enterprises,  common  ownership,  and  state  ownership. Communism  is  a  socio-economic  system  structured  upon  the  common ownership of the means of production and characterized by the absence of social class."
+                "text": "To explore the impact of histotripsy on the risk of metastases, immunohistochemicalexpression of mesenchymal markers, i.e., loss of E-cadherin and gain of N-cadherin andvimentin, was compared in histotripsy-treated tumors vs. control tumors. The plasmamembranes of hepatocytes express N-cadherin (Figure 7). There is weak expression ofvimentin in the untreated control tumor (Figure 7a). At day 2 post-ablation, vimentinis upregulated at the ablation zone periphery (Figure 7b). At day 7, vimentin is alsoupregulated at the periphery of the control tumor (Figure 7c). At day 7 post-ablation,vimentin upregulation appears to have shifted inwards, towards the core of the ablationzone, while E-cadherin expression is upregulated at the periphery (Figure 7d). At day7 post scant histotripsy, vimentin is weakly expressed at the perimeter of the untreatedtumor, as compared to the control tumor at day 7 (Figure 7e). Vimentin expression is alsoup-regulated near the edge of the ablation zone, at the ablation zone-untreated tumorboundary on day 7 post scant histotripsy (Figure 7f)."
             },
             "5": {
                 "bbox": [
-                    53.858,
-                    67.144,
-                    314.629,
-                    36.25
+                    166.394,
+                    70.12,
+                    392.88199999999995,
+                    29.748999999999995
                 ],
-                "text": "Marxist criminology views the competitive nature of the capitalist sys-tem as a major cause of financial crime (Siegel 2011). It focuses on what creates  stability  and  continuity  in  society,  and  it  adopts  a  pre-defined "
+                "text": "Figure 7. Representative multiplex immunohistochemistry images obtained at 20[~] magni[~]cationshowing epithelial and mesenchymal markers in (a) untreated control (Day 2), (b) histotripsy-treated"
             }
         },
         "12": {
@@ -830,206 +553,71 @@
             "1": {},
             "2": {
                 "bbox": [
-                    53.858,
-                    391.144,
-                    314.639,
-                    144.25
+                    166.394,
+                    607.307,
+                    394.37,
+                    139.44499999999994
                 ],
-                "text": "political philosophy. Marxist criminology focuses on why things change by identifying the disruptive forces in capitalist societies, and describing how power, wealth, prestige, and perceptions of the world divide every society.  The  economic  struggle  is  the  central  venue  for  the  Marxists. Marx  divided  society  into  two  unequal  classes  and  demonstrated  the inequality in the historical transition from patrician and slave to capitalist and wage worker: this is the rulers versus the ruled. Marx also underlined that all societies have a certain hierarchy wherein a higher class has more privileges  than  a  lower  one.  In  a  capitalist  society  where  economic resources equate to power, it is in the interest of the ascendant class to maintain  economic  stratification  in  order  to  dictate  the  legal  order (Petrocelli et[~]al. 2003)."
+                "text": "tumor (Day 2), (c) untreated control (Day 7), (d) histotripsy-treated tumor (Day 7), and (e,f) scanthistotripsy treated (<25% tumor volume ablated) tumor (Day 7). All days are measured from thehistotripsy-treatment timepoint. The samples were stained for DAPI (blue), E-cadherin (green),N-cadherin (red) and vimentin (pink) (L: Liver, A: Ablation Zone, T: Tumor). In all panels, N-cadherinis expressed at the plasma membrane of hepatocytes. (a) Control[~]Day 2: Vimentin is weaklyexpressed within the control tumor. (b) Histotripsy[~]Day 2: Vimentin expression is upregulated atthe ablation zone periphery. (c) Control[~]Day 7: Vimentin expression is upregulated at the controltumor periphery. (d) Histotripsy[~]Day 7: Vimentin is up-regulated within the ablation zone, E-cadherin is expressed at the ablation zone periphery. (e) Scant Histotripsy[~]Day 7: Vimentin isexpressed at the untreated tumor[~]liver interface. (f) Scant Histotripsy[~]Day 7: Vimentin is expressedin the periphery of the ablation zone at the ablation zone-untreated tumor interface."
             },
             "3": {
                 "bbox": [
-                    53.858,
-                    307.144,
-                    314.618,
-                    84.25
+                    166.394,
+                    447.425,
+                    394.12699999999995,
+                    150.29699999999997
                 ],
-                "text": "McKeever (2012) suggests that those who are socially, economically, and politically vulnerable are those who typically benefit from the social security system. Social security fraud can vary from sophisticated, orga-nized, and large-scale offenses to minor, low level frauds committed by individual claimants. While the money gained through a minor fraud is relatively small, the cumulative amount lost to low level fraud constitutes a significant sum (Ceccato and Benson 2016)."
+                "text": "The upregulation of the mesenchymal marker vimentin could be associated witheither tissue healing or metastasis. Since there was evidence of scar tissue formation butno intact tumor cells on histology at day 7 post-histotripsy, the expression of vimentin atthe periphery of the ablation zone on day 2, and in the ablation zone on day 7, suggeststhat tissue healing is the likely process. The similarity between the boundaries of theablation zones on day 7 post scant histotripsy and day 2 post-histotripsy further supportsthe premise that the process of homogenate resorption and tissue healing may be protractedin scant histotripsy. Vimentin upregulation at the control tumor periphery and untreatedtumor in scant histotripsy on day 7, may be linked to metastatic invasion. The invasiveappearance of the control tumor on day 7 histology, as well as eventual development ofmetastases, in all control animals and n = 2 histotripsy animals with local tumor progression,support this proposition."
             },
-            "4": {
-                "bbox": [
-                    53.858,
-                    211.144,
-                    314.638,
-                    96.25
-                ],
-                "text": "When studying relatively minor social security fraud committed by indi-vidual claimants, McKeever (2012) found that the legal response to these frauds in both the UK and Australia is quite harsh. She suggests that a new policy framework is required, within which low level fraud is decriminal-ized. She argues that at present, minor fraud is so broadly defined that it encompasses  as  a  norm  behavior  that  does  not  uniformly  meet  proper standards of criminal culpability, pulling into its path claimants who have not intentionally and dishonestly committed fraud."
-            },
+            "4": {},
             "5": {
                 "bbox": [
-                    53.858,
-                    163.144,
-                    314.644,
-                    48.25
+                    165.895,
+                    208.62,
+                    395.12800000000004,
+                    213.062
                 ],
-                "text": "In contrast to this view, social conflict theory explains why the ruling class will never allow the decriminalization of social security fraud. It will never accept the view that minor fraud prosecution represents a form of overcriminalization targeted at the losers in society."
+                "text": "Previous histotripsy investigations have demonstrated the feasibility and ef[~]cacyof histotripsy for non-invasive ablation in the liver [15,16,19,22,27].In this study, weevaluated the development of metastatic HCC, after partial histotripsy tumor ablation,in an immune-competent, McA-RH7777 rodent liver tumor model. The McA-RH7777rodent tumor model is a well-established rat orthotopic HCC model, used for image-guided interventional oncology research [30,31]. Even with partial ablation of the tumorvolume, >80% histotripsy-treated animals demonstrated local tumor regression, with nolocal recurrence or metastasis, and had signi[~]cantly improved survival, as compared to100% control animals, demonstrating local tumor progression and intra-hepatic metastases.The formation of scar tissue was observed in histotripsy-treated animals, with no viabletumor cells observable, as early as day 7 post-histotripsy, indicating the resorption of theablation zone begins early post-treatment. These results suggest that histotripsy does notincrease the risk of developing metastases post-ablation. Increased immune in[~]ltrationwas also observed in treated tumors at day 2 and day 7 post-histotripsy, as compared tocontrol tumors, which may have triggered an anti-tumor immune response, contributingto the complete regression of partially ablated tumors, while preventing metastases in theimmunocompetent rodent hosts."
             },
             "6": {
                 "bbox": [
-                    53.858,
-                    103.144,
-                    314.628,
-                    60.25
+                    165.975,
+                    70.538,
+                    394.95899999999995,
+                    137.743
                 ],
-                "text": "An illustration of the class perspective is the extent to which the police start  investigating  reported  cases  of  social  security  fraud  compared  to white-collar  crime  such  as  bankruptcy  cases.  The  police  in  Oslo  start  investigations into 85 percent of all cases reported by NAV, but only 10 percent of all cases reported by bankruptcy attorneys (Solem 2016)."
-            },
-            "7": {
-                "bbox": [
-                    53.858,
-                    67.144,
-                    314.635,
-                    36.25
-                ],
-                "text": "Evasion of social security contributions can set disincentives for people to return to the official labor markets. Instead, benefit abusers become engaged in the shadow economy (Petersen et[~]al. 2010)."
+                "text": "Metastasis is a complex process, consisting primarily of [~]ve essential steps: (1) inva-sion, where tumor cells detach from ECM and in[~]ltrate adjacent tissue, (2) intravasation,where tumor cells enter the circulatory system, (3) survival in the circulatory system, (4) ex-travasation, where tumor cells exit the circulatory system and in[~]ltrate a distant site, and(5) colonization, where tumor cells grow and proliferate at the new site [32]. The seed andsoil theory of metastasis was [~]rst proposed by Stephen Paget in 1889, which suggests thatthe metastatic growth of cancer cells (the [~]seed[~]) is dependent on the competence of thedistant organ (the [~]soil[~]) [33]. HCC is a highly invasive cancer, favoring proximal intra-hepatic metastasis, likely due to the dense hepatic vasculature and immunosuppressivepolarization of the liver [34]. In this study, we focused investigation on the [~]rst step ofthe metastatic cascade, invasion, which is induced by epithelial-to-mesenchymal transi-"
             }
         },
         "13": {
             "0": {},
-            "1": {
-                "bbox": [
-                    75.908,
-                    550.485,
-                    131.86599999999999,
-                    8.574999999999932
-                ],
-                "text": "P. GOTTSCHALK AND L. GUNNESDAL"
-            },
+            "1": {},
             "2": {
                 "bbox": [
-                    53.858,
-                    427.144,
-                    314.639,
-                    108.25
+                    165.975,
+                    508.305,
+                    394.54599999999994,
+                    238.16799999999995
                 ],
-                "text": "Social  conflict  theory  suggests  that  laws  and  regulations  are  imple-mented by the elite to control others in society. However, to stay in charge, the elite does have to punish their own sometimes. An example of a con-victed white-collar criminal in Norway was presented in this book. When compared  to  another  example  in  this  book[~]a  convicted  social  security fraudster[~]it  seems  that  the  sentencing  varies  depending  on  class.  The social  security  fraudster  was  sentenced  to  a  slightly  longer  prison  term although the white-collar criminal had committed a more serious crime in terms of the amount of money involved in his offense."
+                "text": "tion (EMT) of tumor cells, where they lose epithelial characteristics and concomitantlyacquire mesenchymal characteristics. EMT is a biologic process that allows epithelial cellsto transform into a mesenchymal cell phenotype, allowing them to migrate and in[~]ltrateand can be classi[~]ed into three biological subtypes. Of these, [~]type 2[~] are associated withwound healing and organ [~]brosis, and [~]type 3[~] are associated with tumor progression andmetastases [35]. EMT is characterized by the downregulation of epithelial markers, suchas E-cadherin, and the upregulation of mesenchymal markers, such as N-cadherin andvimentin. In type 3 EMT, carcinoma cells, at the invasive front of primary tumors, canacquire a mesenchymal phenotype [36]. In our study, vimentin upregulation, observedat the periphery of control tumor on day 7, but not on day 2, is likely indicative of atype 3 EMT process. This premise is supported by the more invasive appearance of thetumor observed on day 7 trichrome staining, as well as the eventual invasive metastaticprogression observed in all control tumors at later timepoints. In contrast, type 2 EMT isinitiated as a reparative-associated process, in response to tissue injury or in[~]ammation,and ceases once the in[~]ammatory offense is withdrawn, such as with wound healingand [~]brosis [37]. However, within the liver, the contribution of type 2 EMT to [~]brosisis still controversial [38[~]40]. In general, vimentin is upregulated in the wound healingprocess; cytoskeletal vimentin is released extracellularly after tissue injury and binds tomesenchymal leader cells located at the wound edge to facilitate healing [41]."
             },
-            "3": {},
+            "3": {
+                "bbox": [
+                    166.005,
+                    332.564,
+                    395.014,
+                    175.40299999999996
+                ],
+                "text": "In our study, vimentin was observed at the histotripsy-treated tumor boundary onday 2 and within the tumor on day 7. This evidence suggests that the expression ofvimentin is likely linked to the formation of [~]brous tissue, as part of the wound healingprocess, in response to histotripsy ablation. Upregulation of E-cadherin, observed atthe tumor boundary on day 7, is likely indicative of re-epithelialization of the [~]wound[~],caused by histotripsy ablation; re-epithelialization is a necessary and essential requirementfor successful wound closure [42]. Since EMT may be involved in both tissue healingand metastasis processes, further investigation of the metastatic cascade is necessary.Intravasation of tumor cells generates circulating tumor cells (CTCs); however, it hasbeen estimated that only <0.01% of CTCs will develop distant metastatic lesions aftersurviving stress, immune attack and anoikis in a hostile circulatory system environment [43].Additional studies are ongoing to assess the circulating tumor cells (CTCs), which willprovide an insight into whether the mechanical disruption caused by histotripsy increasesCTCs, as compared to untreated controls."
+            },
             "4": {
                 "bbox": [
-                    53.858,
-                    379.393,
-                    314.33299999999997,
-                    11.034000000000049
+                    166.095,
+                    68.952,
+                    394.924,
+                    263.273
                 ],
-                "text": "Agder.  (2015,  September  30).  Case  LA-2015-195071,  Agder  lagmannsrett "
-            },
-            "5": {},
-            "6": {
-                "bbox": [
-                    53.858,
-                    335.401,
-                    314.334,
-                    33.02999999999997
-                ],
-                "text": "Brooks, G., & Button, M. (2011). The Police and Fraud Investigation and the Case for a Nationalized Solution in the United Kingdom. The Police Journal, 84, 305[~]319."
-            },
-            "7": {
-                "bbox": [
-                    53.858,
-                    302.407,
-                    314.318,
-                    33.03000000000003
-                ],
-                "text": "Ceccato,  V.,  &  Benson,  M.[~] L.  (2016).  Tax  Evasion  in  Sweden  2002[~]2013: Interpreting Changes in the Rot/Rut Deduction System and Predicting Future Trends. Crime, Law and Social Change, 66, 217[~]232."
-            },
-            "8": {
-                "bbox": [
-                    53.858,
-                    269.413,
-                    314.361,
-                    33.02999999999997
-                ],
-                "text": "Haines,  F.  (2014).  Corporate  Fraud  as  Misplaced  Confidence?  Exploring Ambiguity  in  the  Accuracy  of  Accounts  and  the  Materiality  of  Money. Theoretical Criminology, 18(1), 20[~]37."
-            },
-            "9": {
-                "bbox": [
-                    53.858,
-                    258.415,
-                    314.135,
-                    11.033999999999992
-                ],
-                "text": "Kynn, M. (2008). The [~]Heuristics and Biases[~] Bias in Expert Elicitation. Journal of "
-            },
-            "10": {
-                "bbox": [
-                    65.855,
-                    247.417,
-                    162.18,
-                    11.03400000000002
-                ],
-                "text": "the Royal Statistical Society, 171, 239[~]264."
-            },
-            "11": {
-                "bbox": [
-                    53.858,
-                    203.425,
-                    314.36,
-                    44.02799999999999
-                ],
-                "text": "Lensvelt-Mulders,  G.[~] J.  L.[~] M.,  Heijden,  P.[~] G.  M.,  &  Laudy,  O.  (2006).  A Validation of a Computer-Assisted Randomized Response Survey to Estimate the Prevalence of Fraud in Social Security. Journal of the Royal Statistical Society, 169, 305[~]318."
-            },
-            "12": {
-                "bbox": [
-                    53.858,
-                    192.436,
-                    314.342,
-                    11.025000000000006
-                ],
-                "text": "McKeever, G. (2012). Social Citizenship and Social Security Fraud in the UK and "
-            },
-            "13": {
-                "bbox": [
-                    65.855,
-                    181.429,
-                    224.45999999999998,
-                    11.033999999999992
-                ],
-                "text": "Australia. Social Policy & Administration, 46(4), 465[~]482."
-            },
-            "14": {
-                "bbox": [
-                    53.858,
-                    148.435,
-                    314.359,
-                    33.03
-                ],
-                "text": "Petersen, H.[~]G., Thiessen, U., & Wohlleben, P. (2010). Shadow Economy, Tax Evasion, and Transfer Fraud[~][~] Definition, Measurement, and Data Problems. International Economic Journal, 24(4), 421[~]441."
-            },
-            "15": {
-                "bbox": [
-                    53.858,
-                    115.441,
-                    314.332,
-                    33.03
-                ],
-                "text": "Petrocelli, M., Piquero, A.[~]R., & Smith, M.[~]R. (2003). Conflict Theory and Racial Profiling: An Empirical Analysis of Police Traffic Stop Data. Journal of Criminal Justice, 31, 1[~]11."
-            },
-            "16": {
-                "bbox": [
-                    53.858,
-                    104.443,
-                    314.334,
-                    11.034000000000006
-                ],
-                "text": "Proba. (2011). Misbruk av sykepengeordningen i folketrygden [Abuse of Sick Pay "
-            },
-            "17": {
-                "bbox": [
-                    65.855,
-                    93.454,
-                    237.14799999999997,
-                    11.025000000000006
-                ],
-                "text": "Scheme in National Insurance]. Oslo: Proba samfunnsanalyse."
-            },
-            "18": {
-                "bbox": [
-                    53.858,
-                    60.46,
-                    314.348,
-                    33.020999999999994
-                ],
-                "text": "Proba.  (2013).  Trygdesvindel  i  Norge:  En  kartlegging  av  fem  st[~]nadsordninger [Social  Security  Fraud  in  Norway:  A  Survey  of  Five  Support  Areas].  Oslo: Proba samfunnsanalyse."
+                "text": "The immune microenvironment also affects the metastatic potential of the disseminat-ing cells. Cancer therapies, such as radiation, chemotherapy and thermal ablation, destroytumors and surrounding tissues via necrosis, which can trigger an in[~]ammatory immuneresponse. However, this response can be either pro-tumor or anti-tumor, depending on thetumor microenvironment and the expression of immune mediators and modulators [44[~]47].Our previous study demonstrated that subcutaneous histotripsy ablation of melanomatumors in murine hosts releases tumor antigens, with preserved immunogenicity, initiat-ing both local (upregulation of intratumoral NK cells, dendritic cells, neutrophils, B cells,CD4+ T cells and CD8+ T cells), and systemic immune response, as evidenced by abscopalimmune effects [20]. In the current study, we observed increased immune in[~]ltration ofCD11b+ and NK cells in the histotripsy-treated orthotopic liver tumor boundary, comparedto control tumor at day 2 timepoint. At the day 7 timepoint, CD8+ T cells were also seenin[~]ltrating the tumor region from the periphery. CD11b+ myeloid cells, as well as NKcells, contribute to anti-tumor innate immunity, while CD8+ cells contribute to adaptiveimmune-mediated responses [48[~]50]. Studies have shown that enhanced T-cell response,generated by immunotherapy, can prevent metastasis in early-stage cancer patients [51].In a human colorectal cancer study, the absence of metastasis correlated with increasedexpression of T-cell proliferation and antigen presentation functions [52]. There is in-creasing evidence that ablative therapies can either positively or negatively impact tumorprogression and metastasis, by regulating both adaptive and innate immunity [53[~]56]. Amurine study reported that RFA of the liver induced a strong, time-dependent immune"
             }
         },
         "14": {
@@ -1037,58 +625,635 @@
             "1": {},
             "2": {
                 "bbox": [
-                    53.855,
-                    524.119,
-                    314.35999999999996,
-                    11.024999999999977
+                    166.394,
+                    508.305,
+                    394.624,
+                    238.16799999999995
                 ],
-                "text": "Schwendinger, H., & Schwendinger, J.[~](2014). Defenders of Order or Guardians "
+                "text": "response (presence of neutrophils, activated myo[~]broblasts, and macrophages) at thenecrotic zone boundary [57]. In a study involving colorectal cancer patients, incompleteRFA (presence of remnant tumor after therapy) was shown to promote tumor progressionand was associated with earlier development of metastases [58]. Another study reportedincreased metastatic potential of residual carcinoma after transarterial embolization, usingthe McA-RH7777 model [31]. The [~]rst in-human histotripsy study reported intrahepaticabscopal effects (reduction in non-targeted tumor lesions), following histotripsy ablationof a single liver tumor lesion in a colorectal cancer patient, with progressive, multiplemetastatic disease [26]. Our previous study, using the N1-S1 liver orthotopic tumor model,had demonstrated that the complete histotripsy ablation cohort had a 100% regressionrate; however, in the partial ablation cohort (50[~]75% tumor ablation), only 80% of animalsdemonstrated regression [22]. Similar results were observed in the current study; whenat least 50% tumor volume was ablated, >80% of the tumors completely regressed and noclinical recurrence/metastases were detected, indicating an anti-tumor immune response.However, in the scant histotripsy cohort (<25% tumor ablation), tumor progression wasobserved, suggesting that the anti-tumor immune response was too weak, as evidenced bythe diminished immune in[~]ltration. There is likely a minimal tumor volume percentagethreshold that needs to be ablated to generate suf[~]cient histotripsy response to cause theentire tumor (both ablated and unablated regions) to regress."
             },
             "3": {
                 "bbox": [
-                    65.852,
-                    513.112,
-                    195.11999999999998,
-                    11.033999999999992
+                    166.085,
+                    282.352,
+                    394.9359999999999,
+                    225.615
                 ],
-                "text": "of Human Rights? Social Justice, 40(1/2), 87[~]117."
+                "text": "One of the primary limitations of our study is that only a small subset of immunecells was analyzed. Future studies will focus extensively on the quantitation of additionalintratumoral and peripheral immune cell subsets, using [~]ow cytometry assays. Tumorprogression and metastasis are in[~]uenced by several molecular mechanisms and factors.The orthotopic implantation of McA-RH7777 cells, using cyclophosphamide for temporaryimmune suppression to promote tumor uptake [59], does not fully represent spontaneouslydeveloping tumors in the human liver. This study also did not utilize any immunomod-ulating drugs in combination with histotripsy. Although histotripsy alone resulted incomplete regression of the tumor in >80% animals, it would be worthwhile to explorethe response of histotripsy in combination with immunotherapies, since ablation-inducedimmune responses have been historically reported as inadequate in eliminating establishedtumors. The exact mechanism of cell death of the untargeted residual tumor, followingpartial ablation, is also unknown and is likely a combination of immunogenic cell deathmechanisms; further investigations are currently ongoing. Another limitation is that tu-mors in this study were treated at an early stage, before metastases were radiologicallyvisible. Future studies will utilize immunomodulatory adjuvants with histotripsy ablationto treat tumors in different stages of disease progression, including after the developmentof intrahepatic metastases, and monitor their response."
+            },
+            "4": {},
+            "5": {
+                "bbox": [
+                    166.085,
+                    93.759,
+                    394.93399999999997,
+                    162.849
+                ],
+                "text": "This study demonstrated the potential of histotripsy for successful non-invasivetumor ablation, and prevention of local tumor progression and metastasis. Even withpartial ablation, complete local tumor regression was observed in 9/11 (81%) treatmentrats, with no recurrence or metastasis up to the 12-week study endpoint, as evidencedby MRI and histology.In contrast, 11/11 (100%) control animals demonstrated localtumor progression and intra-hepatic metastases and had to be euthanized at 1[~]3 weeks.The results also revealed increased immune in[~]ltration in histotripsy-treated tumors, ascompared to controls as preliminary evidence, which suggests a possible immune-mediatedresponse, stimulated by histotripsy, which may have contributed to regression of theuntreated tumor region. These results suggest that histotripsy may not increase the riskof developing metastases post-ablation, as compared to controls. Future studies willcontinue to investigate the safety, ef[~]cacy, and biological effects of histotripsy, for potentialtranslation to clinic."
+            }
+        },
+        "15": {
+            "0": {},
+            "1": {},
+            "2": {
+                "bbox": [
+                    165.309,
+                    722.509,
+                    395.0830000000001,
+                    23.255999999999972
+                ],
+                "text": "Supplementary Materials: The following supporting information can be downloaded at: https://www.mdpi.com/article/10.3390/cancers14071612/s1, Table S1: Tumor Response Summary."
+            },
+            "3": {
+                "bbox": [
+                    166.044,
+                    634.519,
+                    394.356,
+                    81.52200000000005
+                ],
+                "text": "Author Contributions: Conceptualization, T.W., A.G. and Z.X.; Data curation, T.W.; Formal analysis,T.W., A.G., J.S. and L.Z.; Funding acquisition, M.Z., J.S. and Z.X.; Investigation, T.W., M.Z., A.G. andM.M.-L.; Methodology, T.W. and A.G.; Project administration, T.W.; Resources, T.W., A.G., C.S.C. andZ.X.; Software, T.W. and T.L.H.; Supervision, C.S.C. and Z.X.; Validation, J.S., F.T.L., C.S.C. and Z.X.;Visualization, T.W., A.G. and L.Z.; Writing[~]original draft, T.W.; Writing[~]review and editing, T.W.,M.Z., A.G., T.L.H., J.S., L.Z., F.T.L., M.M.-L., C.S.C. and Z.X. All authors have read and agreed to thepublished version of the manuscript."
             },
             "4": {
                 "bbox": [
-                    53.855,
-                    469.12,
-                    314.325,
-                    44.02800000000002
+                    166.394,
+                    569.961,
+                    394.37300000000005,
+                    58.09000000000003
                 ],
-                "text": "Siegel, L.[~]J. (2011). Criminology (11th ed.). Belmont: Wadsworth Publishing.Solem, L.[~]K. (2016, September 25 Friday). Kan slippe med 10 m[~]neder i fengsel [Can  Get  Away  with  10  Months  in  Prison].  Daily  Norwegian  Business Newspaper Dagens N[~]ringsliv, pp.[~]12[~]13."
+                "text": "Funding: This study was supported by grants from the National Institutes of Health (NIH) underthe award number R01 CA211217 (T.W., T.L.H., Z.X.) and K08 CA234222 (J.S.), Focused UltrasoundFoundation (C.S.C., Z.X.), VA Merit Review 1I01BX001619-05 (C.S.C., A.G.), University of Michi-gan Forbes Institute for Discovery (C.S.C., Z.X.) and Michigan Medicine-Peking University HealthSciences Center Joint Institute for Translational and Clinical Research (C.S.C., A.G.)."
             },
             "5": {
                 "bbox": [
-                    53.855,
-                    458.122,
-                    313.923,
-                    11.033999999999992
+                    166.394,
+                    517.119,
+                    392.87800000000004,
+                    46.374000000000024
                 ],
-                "text": "Sutherland,  E.[~] H.  (1939).  White-Collar  Criminality.  American  Sociological "
+                "text": "Institutional Review Board Statement: The study was approved by the Institutional Animal Care andUse Committee at the University of Michigan Institutional Review Board (protocol code PRO00009609and date of approval: 6 April 2020, renewed from original protocol code PRO00007764 and date ofapproval 13 June 2017, expiration date 13 June 2020)."
             },
             "6": {},
             "7": {
                 "bbox": [
-                    53.855,
-                    356.242,
-                    314.35999999999996,
-                    66.21299999999997
+                    166.394,
+                    470.015,
+                    392.884,
+                    22.942000000000007
                 ],
-                "text": "Open Access  This chapter is licensed under the terms of the Creative Commons Attribution  4.0  International  License  (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s)  and  the  source,  provide  a  link  to  the  Creative  Commons  license  and indicate if changes were made."
+                "text": "Data Availability Statement: All relevant data are within the manuscript. Raw image data will beavailable upon request."
             },
             "8": {
                 "bbox": [
-                    53.855,
-                    301.252,
-                    314.361,
-                    55.016999999999996
+                    166.116,
+                    358.593,
+                    394.73300000000006,
+                    104.95499999999998
                 ],
-                "text": "The  images  or  other  third  party  material  in  this  chapter  are  included  in  the chapter[~]s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the chapter[~]s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the per-mitted use, you will need to obtain permission directly from the copyright holder."
+                "text": "Con[~]icts of Interest: The funders had no role in the design of the study; in the collection, analyses,or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.Timothy L Hall, Clifford S. Cho, Fred Lee, and Zhen Xu have [~]nancial and/or other relationships. Therelationships are described below: Timothy L Hall: Histosonics, Inc: founder, stockholder, consultant;Clifford S Cho: Histosonics, Inc: research support. Co-national PI of a national multicenter clinicaltrial (NCT04573881) sponsored by HistoSonics, Inc; Fred Lee: Histosonics, Inc: Board of Directors,stockholder, research support; Medtronic Inc: patents, royalties; Ethicon, Inc: paid consultant,research support; Zhen Xu: Histosonics, Inc: founder, stockholder, consultant. All other authorsdeclare no con[~]ict of interest."
+            },
+            "9": {},
+            "10": {
+                "bbox": [
+                    56.783,
+                    135.479,
+                    504.05899999999997,
+                    195.47099999999998
+                ],
+                "text": "Siegel, R.L.; Miller, K.D.; Fuchs, H.E.; Jemal, A. Cancer Statistics, 2021. CA Cancer J. Clin. 2021, 71, 7[~]33. [CrossRef] [PubMed]Anwanwan, D.; Singh, S.K.; Singh, S.; Saikam, V.; Singh, R. Challenges in liver cancer and possible treatment approaches. Biochim.Biophys. Acta Rev. Cancer 2020, 1873, 188314. [CrossRef] [PubMed]de Ridder, J.; de Wilt, J.H.; Simmer, F.; Overbeek, L.; Lemmens, V.; Nagtegaal, I. Incidence and origin of histologically con[~]rmedliver metastases: An explorative case-study of 23,154 patients. Oncotarget 2016, 7, 55368[~]55376. [CrossRef] [PubMed]Kulik, L.; El-Serag, H.B. Epidemiology and Management of Hepatocellular Carcinoma. Gastroenterology 2019, 156, 477[~]491.e1.[CrossRef]American Cancer Society. Cancer Facts & Figures 2021; 2021; Available online: https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-[~]gures/2021/cancer-facts-and-[~]gures-2021.pdf (accessed on10 October 2021).Portolani, N.; Coniglio, A.; Ghidoni, S.; Giovanelli, M.; Benetti, A.; Tiberio, G.A.; Giulini, S.M. Early and late recurrence after liverresection for hepatocellular carcinoma: Prognostic and therapeutic implications. Ann. Surg. 2006, 243, 229[~]235. [CrossRef]Leone, K.; Poggiana, C.; Zamarchi, R. The Interplay between Circulating Tumor Cells and the Immune System: From ImmuneEscape to Cancer Immunotherapy. Diagnostics 2018, 8, 59. [CrossRef]Steeg, P.S. Tumor metastasis: Mechanistic insights and clinical challenges. Nat. Med. 2006, 12, 895[~]904. [CrossRef]Xu, Z.; Ludomirsky, A.; Eun, L.Y.; Hall, T.L.; Tran, B.C.; Fowlkes, J.B.; Cain, C.A. Controlled ultrasound tissue erosion. IEEE Trans.Ultrason. Ferroelectr. Freq. Control 2004, 51, 726[~]736. [CrossRef]"
+            },
+            "11": {},
+            "12": {},
+            "13": {},
+            "14": {},
+            "15": {},
+            "16": {},
+            "17": {
+                "bbox": [
+                    35.716,
+                    123.972,
+                    525.129,
+                    10.99300000000001
+                ],
+                "text": "10. Parsons, J.E.; Cain, C.A.; Abrams, G.D.; Fowlkes, J.B. Pulsed cavitational ultrasound therapy for controlled tissue homogenization."
+            },
+            "18": {
+                "bbox": [
+                    56.882,
+                    112.465,
+                    198.756,
+                    11.36099999999999
+                ],
+                "text": "Ultrasound Med. Biol. 2006, 32, 115[~]129. [CrossRef]"
+            },
+            "19": {
+                "bbox": [
+                    35.716,
+                    100.958,
+                    523.908,
+                    10.992999999999995
+                ],
+                "text": "11. Roberts, W.W.; Hall, T.L.; Ives, K.; Wolf, J.S.; Fowlkes, J.B., Jr.; Cain, C.A. Pulsed cavitational ultrasound: A noninvasive technology"
+            },
+            "20": {
+                "bbox": [
+                    57.232,
+                    89.451,
+                    396.15700000000004,
+                    11.361000000000004
+                ],
+                "text": "for controlled tissue ablation (histotripsy) in the rabbit kidney. J. Urol. 2006, 175, 734[~]738. [CrossRef]"
+            }
+        },
+        "16": {
+            "0": {},
+            "1": {},
+            "2": {
+                "bbox": [
+                    35.716,
+                    711.525,
+                    524.68,
+                    34.00700000000006
+                ],
+                "text": "12. Wang, Y.N.; Khokhlova, T.; Bailey, M.; Hwang, J.H.; Khokhlova, V. Histological and biochemical analysis of mechanical andthermal bioeffects in boiling histotripsy lesions induced by high intensity focused ultrasound. Ultrasound Med. Biol. 2013, 39,424[~]438. [CrossRef] [PubMed]"
+            },
+            "3": {
+                "bbox": [
+                    35.716,
+                    700.018,
+                    523.742,
+                    10.992999999999938
+                ],
+                "text": "13. Winterroth, F.; Xu, Z.; Wang, T.Y.; Wilkinson, J.E.; Fowlkes, J.B.; Roberts, W.W.; Cain, C.A. Examining and analyzing subcellular"
+            },
+            "4": {
+                "bbox": [
+                    57.232,
+                    688.511,
+                    429.97,
+                    11.36099999999999
+                ],
+                "text": "morphology of renal tissue treated by histotripsy. Ultrasound Med. Biol. 2011, 37, 78[~]86. [CrossRef] [PubMed]"
+            },
+            "5": {
+                "bbox": [
+                    35.716,
+                    677.004,
+                    523.557,
+                    10.992999999999938
+                ],
+                "text": "14. Hall, T.L.; Kieran, K.; Ives, K.; Fowlkes, J.B.; Cain, C.A.; Roberts, W.W. Histotripsy of rabbit renal tissue in vivo: Temporal"
+            },
+            "6": {
+                "bbox": [
+                    57.232,
+                    665.498,
+                    239.804,
+                    11.36099999999999
+                ],
+                "text": "histologic trends. J. Endourol. 2007, 21, 1159[~]1166. [CrossRef]"
+            },
+            "7": {
+                "bbox": [
+                    35.716,
+                    653.991,
+                    523.742,
+                    10.993000000000052
+                ],
+                "text": "15. Vlaisavljevich, E.; Kim, Y.; Allen, S.; Owens, G.; Pelletier, S.; Cain, C.; Ives, K.; Xu, Z. Image-guided non-invasive ultrasound liver"
+            },
+            "8": {},
+            "9": {
+                "bbox": [
+                    56.936,
+                    607.963,
+                    503.90900000000005,
+                    45.88200000000006
+                ],
+                "text": "ablation using histotripsy: Feasibility study in an in vivo porcine model. Ultrasound Med. Biol. 2013, 39, 1398[~]1409. [CrossRef]Smolock, A.R.; Cristescu, M.M.; Vlaisavljevich, E.; Gendron-Fitzpatrick, A.; Green, C.; Cannata, J.; Ziemlewicz, T.J.; Lee, F.T.Robotically Assisted Sonic Therapy as a Noninvasive Nonthermal Ablation Modality: Proof of Concept in a Porcine Liver Model.Radiology 2018, 287, 485[~]493. [CrossRef] [PubMed]"
+            },
+            "10": {
+                "bbox": [
+                    35.716,
+                    573.442,
+                    524.679,
+                    34.00699999999995
+                ],
+                "text": "17. Knott, E.A.; Swietlik, J.F.; Longo, K.C.; Watson, R.F.; Green, C.M.; Abel, E.J.; Lubner, M.G.; Hinshaw, J.L.; Smolock, A.R.;Xu, Z.; et al. Robotically-Assisted Sonic Therapy for Renal Ablation in a Live Porcine Model: Initial Preclinical Results. J. Vasc.Interv. Radiol. 2019, 30, 1293[~]1302. [CrossRef] [PubMed]"
+            },
+            "11": {
+                "bbox": [
+                    35.716,
+                    538.922,
+                    525.13,
+                    34.00699999999995
+                ],
+                "text": "18. Longo, K.C.; Knott, E.A.; Watson, R.F.; Swietlik, J.F.; Vlaisavljevich, E.; Smolock, A.R.; Xu, Z.; Cho, C.S.; Mao, L.; Lee, F.T.; et al.Robotically Assisted Sonic Therapy (RAST) for Noninvasive Hepatic Ablation in a Porcine Model: Mitigation of Body WallDamage with a Modi[~]ed Pulse Sequence. Cardiovasc. Intervent. Radiol. 2019, 42, 1016[~]1023. [CrossRef]"
+            },
+            "12": {
+                "bbox": [
+                    35.716,
+                    504.401,
+                    525.131,
+                    34.007000000000005
+                ],
+                "text": "19. Vlaisavljevich, E.; Owens, G.; Lundt, J.; Teo[~]lovic, D.; Ives, K.; Duryea, A.; Bertolina, J.; Welling, T.H.; Xu, Z. Non-Invasive LiverAblation Using Histotripsy: Preclinical Safety Study in an In Vivo Porcine Model. Ultrasound Med. Biol. 2017, 43, 1237[~]1251.[CrossRef]"
+            },
+            "13": {
+                "bbox": [
+                    35.716,
+                    469.88,
+                    525.129,
+                    34.007000000000005
+                ],
+                "text": "20. Qu, S.; Worlikar, T.; Felsted, A.E.; Ganguly, A.; Beems, M.V.; Hubbard, R.; Pepple, A.L.; Kevelin, A.A.; Garavaglia, H.; Dib, J.; et al.Non-thermal histotripsy tumor ablation promotes abscopal immune responses that enhance cancer immunotherapy. J. Immunother.Cancer 2020, 8, e000200. [CrossRef]"
+            },
+            "14": {
+                "bbox": [
+                    35.716,
+                    435.36,
+                    525.132,
+                    34.007000000000005
+                ],
+                "text": "21. Worlikar, T.; Vlaisavljevich, E.; Gerhardson, T.; Greve, J.; Wan, S.; Kuruvilla, S.; Lundt, J.; Ives, K.; Hall, T.L.; Welling, T.H.; et al.Histotripsy for Non-Invasive Ablation of Hepatocellular Carcinoma (HCC) Tumor in a Subcutaneous Xenograft Murine Model.Conf. Proc. IEEE Eng. Med. Biol. Soc. 2018, 2018, 6064[~]6067. [CrossRef]"
+            },
+            "15": {
+                "bbox": [
+                    35.716,
+                    354.812,
+                    525.127,
+                    80.03399999999999
+                ],
+                "text": "22. Worlikar, T.; Mendiratta-Lala, M.; Vlaisavljevich, E.; Hubbard, R.; Shi, J.; Hall, T.L.; Cho, C.S.; Lee, F.T.; Greve, J.M.; Xu, Z. Effectsof Histotripsy on Local Tumor Progression in an in vivo Orthotopic Rodent Liver Tumor Model. BME Front. 2020, 2020, 9830304.[CrossRef] [PubMed]Styn, N.R.; Hall, T.L.; Fowlkes, J.B.; Cain, C.A.; Roberts, W.W. Histotripsy of renal implanted VX-2 tumor in a rabbit model:Investigation of metastases. Urology 2012, 80, 724[~]729. [CrossRef]Schade, G.R.; Keller, J.; Ives, K.; Cheng, X.; Rosol, T.J.; Keller, E.; Roberts, W.W. Histotripsy focal ablation of implanted prostatetumor in an ACE-1 canine cancer model. J. Urol. 2012, 188, 1957[~]1964. [CrossRef] [PubMed]"
+            },
+            "16": {
+                "bbox": [
+                    35.716,
+                    343.305,
+                    523.557,
+                    10.992999999999995
+                ],
+                "text": "25. Mancia, L.; Vlaisavljevich, E.; Xu, Z.; Johnsen, E. Predicting Tissue Susceptibility to Mechanical Cavitation Damage in Therapeutic"
+            },
+            "17": {
+                "bbox": [
+                    57.232,
+                    331.798,
+                    258.078,
+                    11.36099999999999
+                ],
+                "text": "Ultrasound. Ultrasound Med. Biol. 2017, 43, 1421[~]1440. [CrossRef]"
+            },
+            "18": {
+                "bbox": [
+                    35.716,
+                    320.291,
+                    523.559,
+                    11.36099999999999
+                ],
+                "text": "26. Vidal-Jove, J.; Serres-Creixams, X.; Ziemlewicz, T.J.; Cannata, J.M. Liver Histotripsy Mediated Abscopal Effect-Case Report. IEEE"
+            },
+            "19": {
+                "bbox": [
+                    56.685,
+                    308.784,
+                    279.722,
+                    11.36099999999999
+                ],
+                "text": "Trans. Ultrason. Ferroelectr. Freq. Control 2021, 68, 3001[~]3005. [CrossRef]"
+            },
+            "20": {
+                "bbox": [
+                    35.716,
+                    274.263,
+                    525.052,
+                    34.007000000000005
+                ],
+                "text": "27. Vlaisavljevich, E.; Greve, J.; Cheng, X.; Ives, K.; Shi, J.; Jin, L.; Arvidson, A.; Hall, T.L.; Welling, T.H.; Owens, G.; et al. Non-Invasive Ultrasound Liver Ablation Using Histotripsy: Chronic Study in an In Vivo Rodent Model. Ultrasound Med. Biol. 2016, 42,1890[~]1902. [CrossRef] [PubMed]"
+            },
+            "21": {
+                "bbox": [
+                    35.716,
+                    262.757,
+                    523.559,
+                    10.992999999999995
+                ],
+                "text": "28. Maxwell, A.D.; Cain, C.A.; Hall, T.L.; Fowlkes, J.B.; Xu, Z. Probability of cavitation for single ultrasound pulses applied to tissues"
+            },
+            "22": {
+                "bbox": [
+                    57.232,
+                    251.25,
+                    371.00800000000004,
+                    11.36099999999999
+                ],
+                "text": "and tissue-mimicking materials. Ultrasound Med. Biol. 2013, 39, 449[~]465. [CrossRef] [PubMed]"
+            },
+            "23": {
+                "bbox": [
+                    35.716,
+                    239.743,
+                    523.557,
+                    10.992999999999995
+                ],
+                "text": "29. Vlaisavljevich, E.; Maxwell, A.; Warnez, M.; Johnsen, E.; Cain, C.; Xu, Z. Histotripsy-induced cavitation cloud initiation thresholds"
+            },
+            "24": {
+                "bbox": [
+                    57.232,
+                    228.236,
+                    470.317,
+                    11.361000000000018
+                ],
+                "text": "in tissues of different mechanical properties. IEEE Trans. Ultrason. Ferroelectr. Freq. Control 2014, 61, 341[~]352. [CrossRef]"
+            },
+            "25": {
+                "bbox": [
+                    35.716,
+                    193.715,
+                    524.68,
+                    34.007000000000005
+                ],
+                "text": "30. Zhang, W.; Qian, S.; Yang, G.; Zhu, L.; Zhou, B.; Qu, X.; Yan, Z.; Liu, R.; Wang, J. Establishment and characterization ofMcA-RH7777 cells using virus-mediated stable overexpression of enhanced green [~]uorescent protein. Exp. Ther. Med. 2018, 16,3149[~]3154. [CrossRef]"
+            },
+            "26": {
+                "bbox": [
+                    35.716,
+                    182.208,
+                    523.563,
+                    10.992999999999995
+                ],
+                "text": "31. Wang, G.Z.; Fang, Z.T.; Zhang, W.; Qu, X.D.; Qian, S.; Liu, R.; Wang, J.H. Increased metastatic potential of residual carcinoma"
+            },
+            "27": {},
+            "28": {
+                "bbox": [
+                    57.007,
+                    147.688,
+                    503.39000000000004,
+                    34.375
+                ],
+                "text": "after transarterial embolization in rat with McA-RH7777 hepatoma. Oncol. Rep. 2014, 31, 95[~]102. [CrossRef]van Zijl, F.; Krupitza, G.; Mikulits, W. Initial steps of metastasis: Cell invasion and endothelial transmigration. Mutat. Res. 2011,728, 23[~]34. [CrossRef] [PubMed]"
+            },
+            "29": {
+                "bbox": [
+                    35.716,
+                    124.674,
+                    525.126,
+                    22.867999999999995
+                ],
+                "text": "33. Paget, S. The distribution of secondary growths in cancer of the breast. Cancer Metastasis Rev. 1989, 8, 98[~]101. [CrossRef]34. van Zijl, F.; Zulehner, G.; Petz, M.; Schneller, D.; Kornauth, C.; Hau, M.; Machat, G.; Grubinger, M.; Huber, H.; Mikulits, W."
+            },
+            "30": {
+                "bbox": [
+                    57.232,
+                    113.167,
+                    425.98800000000006,
+                    11.361000000000004
+                ],
+                "text": "Epithelial-mesenchymal transition in hepatocellular carcinoma. Future Oncol. 2009, 5, 1169[~]1179. [CrossRef]"
+            },
+            "31": {
+                "bbox": [
+                    35.716,
+                    101.66,
+                    523.558,
+                    11.361000000000004
+                ],
+                "text": "35. Kalluri, R.; Weinberg, R.A. The basics of epithelial-mesenchymal transition. J. Clin. Investig. 2009, 119, 1420[~]1428. [CrossRef]"
+            },
+            "32": {}
+        },
+        "17": {
+            "0": {},
+            "1": {},
+            "2": {
+                "bbox": [
+                    35.716,
+                    711.525,
+                    524.68,
+                    34.00700000000006
+                ],
+                "text": "36. Brabletz, T.; Jung, A.; Reu, S.; Porzner, M.; Hlubek, F.; Kunz-Schughart, L.A.; Knuechel, R.; Kirchner, T. Variable beta-cateninexpression in colorectal cancers indicates tumor progression driven by the tumor environment. Proc. Natl. Acad. Sci. USA 2001,98, 10356[~]10361. [CrossRef]"
+            },
+            "3": {
+                "bbox": [
+                    35.716,
+                    677.004,
+                    524.68,
+                    34.00699999999995
+                ],
+                "text": "37. Marconi, G.D.; Fonticoli, L.; Rajan, T.S.; Pierdomenico, S.D.; Trubiani, O.; Pizzicannella, J.; Diomede, F. Epithelial-MesenchymalTransition (EMT): The Type-2 EMT in Wound Healing, Tissue Regeneration and Organ Fibrosis. Cells 2021, 10, 1587. [CrossRef]38. Yu, K.; Li, Q.; Shi, G.; Li, N. Involvement of epithelial-mesenchymal transition in liver [~]brosis. Saudi J. Gastroenterol. 2018, 24,"
+            },
+            "4": {},
+            "5": {
+                "bbox": [
+                    35.716,
+                    653.991,
+                    523.7429999999999,
+                    10.993000000000052
+                ],
+                "text": "39. Zeisberg, M.; Yang, C.; Martino, M.; Duncan, M.B.; Rieder, F.; Tanjore, H.; Kalluri, R. Fibroblasts derive from hepatocytes in liver"
+            },
+            "6": {
+                "bbox": [
+                    57.232,
+                    642.484,
+                    384.10699999999997,
+                    11.36099999999999
+                ],
+                "text": "[~]brosis via epithelial to mesenchymal transition. J. Biol. Chem. 2007, 282, 23337[~]23347. [CrossRef]"
+            },
+            "7": {
+                "bbox": [
+                    35.716,
+                    619.47,
+                    523.562,
+                    22.867999999999938
+                ],
+                "text": "40. Zhao, Y.L.; Zhu, R.T.; Sun, Y.L. Epithelial-mesenchymal transition in liver [~]brosis. Biomed. Rep. 2016, 4, 269[~]274. [CrossRef]41. Walker, J.L.; Bleaken, B.M.; Romisher, A.R.; Alnwibit, A.A.; Menko, A.S. In wound repair vimentin mediates the transition of"
+            },
+            "8": {
+                "bbox": [
+                    57.232,
+                    607.963,
+                    404.16499999999996,
+                    11.36099999999999
+                ],
+                "text": "mesenchymal leader cells to a myo[~]broblast phenotype. Mol. Biol. Cell 2018, 29, 1555[~]1570. [CrossRef]"
+            },
+            "9": {
+                "bbox": [
+                    35.716,
+                    596.456,
+                    525.129,
+                    10.992999999999938
+                ],
+                "text": "42. Pastar, I.; Stojadinovic, O.; Yin, N.C.; Ramirez, H.; Nusbaum, A.G.; Sawaya, A.; Patel, S.B.; Khalid, L.; Isseroff, R.R.; Tomiccanic, M."
+            },
+            "10": {
+                "bbox": [
+                    57.232,
+                    584.949,
+                    431.153,
+                    11.36099999999999
+                ],
+                "text": "Epithelialization in Wound Healing: A Comprehensive Review. Adv. Wound Care 2014, 3, 445[~]464. [CrossRef]"
+            },
+            "11": {
+                "bbox": [
+                    35.716,
+                    573.442,
+                    524.681,
+                    11.36099999999999
+                ],
+                "text": "43. Chambers, A.F.; Groom, A.C.; MacDonald, I.C. Dissemination and growth of cancer cells in metastatic sites. Nat. Rev. Cancer 2002,"
+            },
+            "12": {},
+            "13": {
+                "bbox": [
+                    35.716,
+                    527.415,
+                    508.557,
+                    34.375
+                ],
+                "text": "44. Grivennikov, S.I.; Greten, F.R.; Karin, M. Immunity, in[~]ammation, and cancer. Cell 2010, 140, 883[~]899. [CrossRef] [PubMed]45. Vakkila, J.; Lotze, M.T. In[~]ammation and necrosis promote tumour growth. Nat. Rev. Immunol. 2004, 4, 641[~]648. [CrossRef]46."
+            },
+            "14": {
+                "bbox": [
+                    57.232,
+                    515.908,
+                    502.04200000000003,
+                    22.5
+                ],
+                "text": "Smyth, M.J.; Dunn, G.P.; Schreiber, R.D. Cancer immunosurveillance and immunoediting: The roles of immunity in suppressingtumor development and shaping tumor immunogenicity. Adv. Immunol. 2006, 90, 1[~]50. [CrossRef]"
+            },
+            "15": {
+                "bbox": [
+                    35.716,
+                    504.401,
+                    524.68,
+                    11.360999999999933
+                ],
+                "text": "47. Lin, W.W.; Karin, M. A cytokine-mediated link between innate immunity, in[~]ammation, and cancer. J. Clin. Investig. 2007, 117,"
+            },
+            "16": {},
+            "17": {},
+            "18": {
+                "bbox": [
+                    56.783,
+                    446.867,
+                    504.06499999999994,
+                    57.01999999999998
+                ],
+                "text": "1175[~]1183. [CrossRef]Schmid, M.C.; Khan, S.Q.; Kaneda, M.M.; Pathria, P.; Shepard, R.; Louis, T.L.; Anand, S.; Woo, G.; Leem, C.; Faridi, M.H.; et al.Integrin CD11b activation drives anti-tumor innate immunity. Nat. Commun. 2018, 9, 5379. [CrossRef]Farhood, B.; Naja[~], M.; Mortezaee, K. CD8+ cytotoxic T lymphocytes in cancer immunotherapy: A review. J. Cell. Physiol. 2019,234, 8509[~]8521. [CrossRef]"
+            },
+            "19": {
+                "bbox": [
+                    35.716,
+                    423.853,
+                    399.114,
+                    22.867999999999995
+                ],
+                "text": "50. Wu, J.; Lanier, L.L. Natural killer cells and cancer. Adv. Cancer Res. 2003, 90, 127[~]156. [CrossRef]51."
+            },
+            "20": {
+                "bbox": [
+                    56.783,
+                    412.346,
+                    503.61400000000003,
+                    22.867999999999995
+                ],
+                "text": "Fares, J.; Fares, M.Y.; Fares, Y. Immune checkpoint inhibitors: Advances and impact in neuro-oncology. Surg. Neurol. Int. 2019,10, 9. [CrossRef]"
+            },
+            "21": {
+                "bbox": [
+                    35.716,
+                    377.825,
+                    524.681,
+                    34.007000000000005
+                ],
+                "text": "52. Mlecnik, B.; Bindea, G.; Kirilovsky, A.; Angell, H.K.; Obenauf, A.C.; Tosolini, M.; Church, S.E.; Maby, P.; Vasaturo, A.; Angelova,M.; et al. The tumor microenvironment and Immunoscore are critical determinants of dissemination to distant metastasis. Sci.Transl. Med. 2016, 8, 327ra26. [CrossRef]"
+            },
+            "22": {
+                "bbox": [
+                    35.716,
+                    366.319,
+                    523.558,
+                    10.992999999999995
+                ],
+                "text": "53. Takaki, H.; Cornelis, F.; Kako, Y.; Kobayashi, K.; Kamikonya, N.; Yamakado, K. Thermal ablation and immunomodulation: From"
+            },
+            "23": {},
+            "24": {
+                "bbox": [
+                    56.963,
+                    331.798,
+                    502.311,
+                    34.375
+                ],
+                "text": "preclinical experiments to clinical trials. Diagn. Interv. Imaging 2017, 98, 651[~]659. [CrossRef] [PubMed]Slovak, R.; Ludwig, J.M.; Gettinger, S.N.; Herbst, R.S.; Kim, H.S. Immuno-thermal ablations[~]Boosting the anticancer immuneresponse. J. Immunother. Cancer 2017, 5, 78. [CrossRef] [PubMed]"
+            },
+            "25": {
+                "bbox": [
+                    35.716,
+                    320.291,
+                    523.562,
+                    10.992999999999995
+                ],
+                "text": "55. Qian, L.; Shen, Y.; Xie, J.; Meng, Z. Immunomodulatory effects of ablation therapy on tumors: Potentials for combination with"
+            },
+            "26": {
+                "bbox": [
+                    57.232,
+                    308.784,
+                    321.164,
+                    11.36099999999999
+                ],
+                "text": "immunotherapy. Biochim. Biophys. Acta Rev. Cancer 2020, 1874, 188385. [CrossRef]"
+            },
+            "27": {
+                "bbox": [
+                    35.716,
+                    297.277,
+                    523.558,
+                    10.992999999999995
+                ],
+                "text": "56. Haen, S.P.; Pereira, P.L.; Salih, H.R.; Rammensee, H.G.; Gouttefangeas, C. More than just tumor destruction: Immunomodulation"
+            },
+            "28": {
+                "bbox": [
+                    57.232,
+                    285.77,
+                    359.14599999999996,
+                    11.36099999999999
+                ],
+                "text": "by thermal ablation of cancer. Clin. Dev. Immunol. 2011, 2011, 160250. [CrossRef] [PubMed]"
+            },
+            "29": {
+                "bbox": [
+                    35.716,
+                    216.729,
+                    525.128,
+                    68.52699999999996
+                ],
+                "text": "57. Rozenblum, N.; Zeira, E.; Bulvik, B.; Gourevitch, S.; Yotvat, H.; Galun, E.; Goldberg, S.N. Radiofrequency Ablation: In[~]ammatoryChanges in the Periablative Zone Can Induce Global Organ Effects, including Liver Regeneration. Radiology 2015, 276, 416[~]425.[CrossRef] [PubMed]Shi, L.; Wang, J.; Ding, N.; Zhang, Y.; Zhu, Y.; Dong, S.; Wang, X.; Peng, C.; Zhou, C.; Zhou, L.; et al. In[~]ammation inducedby incomplete radiofrequency ablation accelerates tumor progression and hinders PD-1 immunotherapy. Nat. Commun. 2019,10, 5421. [CrossRef]"
+            },
+            "30": {
+                "bbox": [
+                    35.716,
+                    205.222,
+                    524.683,
+                    10.992999999999995
+                ],
+                "text": "59. Diehl, R.; Ferrara, F.; M[~]ller, C.; Dreyer, A.Y.; McLeod, D.D.; Fricke, S.; Boltze, J. Immunosuppression for in vivo research:"
+            },
+            "31": {
+                "bbox": [
+                    57.232,
+                    193.715,
+                    411.812,
+                    11.36099999999999
+                ],
+                "text": "State-of-the-art protocols and experimental approaches. Cell Mol. Immunol. 2017, 14, 146[~]179. [CrossRef]"
             }
         }
     }
